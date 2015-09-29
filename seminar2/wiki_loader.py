@@ -3,6 +3,7 @@ __author__ = 'elmira'
 
 import urllib.request as urlr
 from urllib.error import HTTPError
+from html import unescape
 import bz2
 
 
@@ -40,14 +41,16 @@ def load_dump():
 
 
 def find_articles():
-    # todo
-    # Вторая функция тоже должна спрашивать у пользователя код языка,
-    # после чего она должна открыть предварительно загруженный и (вручную)
-    # разархивированный xml-файл с дампом и вывести в новый файл article_names.txt
-    # список названий всех статей из этого языкового раздела википедии в алфавитном порядке.
-    # Программа должна корректно работать даже в том случае, когда дамп имеет
-    # огромный размер, превышающий размер оперативной памяти компьютера.
-    pass
+    """
+    Prints to file the names of all articles from Wikipedia for a specified language.
+    """
     code = input('Input language code: ')  # ru, en, udm
+    articles = set()
     with open(code + 'wiki-latest-pages-articles.xml', 'r', encoding='utf-8') as dump:
-        pass
+        for line in dump:
+            s = line.strip()
+            if s.startswith('<title>') and s.endswith('</title>'):
+                s = s.replace('<title>', '').replace('</title>', '')
+                articles.add(unescape(s))
+    open('article_names.txt', 'w', encoding='utf-8').write('\n'.join(sorted(articles)))
+    return
