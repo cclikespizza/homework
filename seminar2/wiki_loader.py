@@ -54,3 +54,7 @@ def find_articles():
                 articles.add(unescape(s))
     open('article_names.txt', 'w', encoding='utf-8').write('\n'.join(sorted(articles)))
     return
+
+if __name__ == "__main__":
+    load_dump()
+    find_articles()
