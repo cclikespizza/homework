@@ -8,3 +8,5 @@ this is programming homework
 24.09.2015 - 4th year, seminar 1
 
 29.09.2015 - 4th year, seminar 2
+
+08.10.2015 - 4th year, seminar 3
