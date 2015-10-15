@@ -73,10 +73,8 @@ def count_words(fname):
             if flag:
                 s2 = unescape(regTags.sub('', s))
                 s2 = regURLs.sub('',  s2)
-                # print(s2)
                 words = regWords.findall(s2)
                 for i in words:
-                    # print(i)
                     db.increment('frequency1', 'word', 'freq', i)
                     commits += 1
             if '</text>' in s and flag2:
@@ -84,24 +82,7 @@ def count_words(fname):
                 flag2 = False
             if commits >= 10000:
                 db.commit()
-                print(commits)
                 commits = 0
     db.commit()
-    print('end____count')
 
-
-def func(fname):
-    print('start____func')
-    commits = 0
-    db = Database(u'db.dtb')
-    if not db.table_exists('frequency2'):
-        db.create_tables('frequency2', 'word TEXT', 'freq INTEGER')
-    with open(fname, 'r', encoding='utf-8') as dump:
-        for line in dump:
-            s = line.lower().strip()
-            db.increment('frequency2', 'word', 'freq', s)
-    db.commit()
-    print('end____func')
-
-func('words.txt')
-count_words('udmwiki-latest-pages-articles.xml')
+# count_words('udmwiki-latest-pages-articles.xml')
