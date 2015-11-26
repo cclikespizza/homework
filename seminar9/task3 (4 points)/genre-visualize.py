@@ -44,7 +44,7 @@ class Text:
         return [d['A'], d['S'], d['V'], d['ADV'], d['SPRO'] + d['APRO'] + d['ADVPRO']]
 
     def sent_words(self, sent):
-        arr = [w.text for w in sent]
+        arr = [w.text.lower() for w in sent]
         return arr
 
     def word_lens(self, sentence):
