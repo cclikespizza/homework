@@ -1,4 +1,40 @@
 __author__ = 'elmira'
+from lxml import etree
+import numpy as np
+import os
+from math import log
 
-# Я скачала несколько статей из русской википедии, прогнала их через майстем и собрала все в /xml
+# + Возьмите небольшой корпус, состоящий из достаточно большого числа документов.
+# + Лемматизируйте его.
 
+# Я скачала несколько статей из русской википедии, прогнала их через майстем и собрала все в папке /xml
+
+
+def open_text(fname):
+    # Открываем текст и делаем из него список лемм
+    parser = etree.HTMLParser()
+    tree = etree.parse(fname, parser).getroot()[0]
+    words = [w[0].attrib['lex'] for se in tree for w in se if len(w) != 0]  # массив лемм всего текста
+    return fname, words
+
+
+def collect_corpus(directory='xml'):
+    # Создаем набор тектсов, где каждый текст - это список лемм.
+    texts = [open_text(directory + '/' + fname) for fname in os.listdir(directory)]
+    return texts
+
+
+def unique(texts):
+    # Составляем множество уникальных лемм всего корпуса.
+    unique_lems = set()
+    for text in texts:
+        unique_lems.update(text[1])
+    return unique_lems
+
+
+def create_idf_dict(lems, texts):
+    # Составляем словарь idf, в котором для каждой леммы хранится log(N/df),
+    # где N – число документов, df – число документов, содержащих данную лемму.
+    N = len(texts)
+    dic = {lem: log(N/sum([lem in text[1] for text in texts])) for lem in lems}
+    return dic
