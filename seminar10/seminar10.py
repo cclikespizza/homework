@@ -3,7 +3,9 @@ from lxml import etree
 from collections import Counter
 from itertools import product
 import os
-from math import log# + Возьмите небольшой корпус, состоящий из достаточно большого числа документов.
+from math import log
+
+# + Возьмите небольшой корпус, состоящий из достаточно большого числа документов.
 # + Лемматизируйте его.
 
 # Я скачала несколько статей из русской википедии, прогнала их через майстем и собрала все в папке /xml
@@ -40,7 +42,7 @@ def create_idf_dict(lems, texts):
 
 
 def create_tfidf_dict(lems, texts, idf):
-    texts = {i[0]: Counter(i[1]) for i in texts}
+    texts = {text[0].split('/')[1]: Counter(text[1]) for text in texts}
     dic = {}
     for i in product(lems, texts.keys()):
         dic[i] = (texts[i[1]][i[0]]/len(texts[i[1]]))*idf[i[0]]
@@ -58,7 +60,7 @@ def main():
     tfidf = create_tfidf_dict(uniq, corpus, idf)
     print('Пары лемма-документ с наибольшим значением tf-idf:')
     for pair in sorted(tfidf, key=lambda x:tfidf[x], reverse=True)[:10]:
-        print('   ' + pair[0] + ' - ' + pair[1])
+        print('   ' + pair[1] + ' - ' + pair[0])
 
 if __name__ == "__main__":
     main()
