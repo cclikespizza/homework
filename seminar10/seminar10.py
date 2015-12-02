@@ -3,9 +3,7 @@ from lxml import etree
 from collections import Counter
 from itertools import product
 import os
-from math import log
-
-# + Возьмите небольшой корпус, состоящий из достаточно большого числа документов.
+from math import log# + Возьмите небольшой корпус, состоящий из достаточно большого числа документов.
 # + Лемматизируйте его.
 
 # Я скачала несколько статей из русской википедии, прогнала их через майстем и собрала все в папке /xml
