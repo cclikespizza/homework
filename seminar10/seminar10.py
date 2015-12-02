@@ -1,6 +1,7 @@
 __author__ = 'elmira'
 from lxml import etree
-import numpy as np
+from collections import Counter
+from itertools import product
 import os
 from math import log
 
@@ -38,3 +39,28 @@ def create_idf_dict(lems, texts):
     N = len(texts)
     dic = {lem: log(N/sum([lem in text[1] for text in texts])) for lem in lems}
     return dic
+
+
+def create_tfidf_dict(lems, texts, idf):
+    texts = {i[0]: Counter(i[1]) for i in texts}
+    dic = {}
+    for i in product(lems, texts.keys()):
+        dic[i] = (texts[i[1]][i[0]]/len(texts[i[1]]))*idf[i[0]]
+    return dic
+
+
+def main():
+    print('Собираю тексты корпуса...')
+    corpus = collect_corpus()
+    print('Собираю список уникальных лемм...')
+    uniq = unique(corpus)
+    print('Считаю idf...')
+    idf = create_idf_dict(uniq, corpus)
+    print('Считаю tf-idf...')
+    tfidf = create_tfidf_dict(uniq, corpus, idf)
+    print('Пары лемма-документ с наибольшим значением tf-idf:')
+    for pair in sorted(tfidf, key=lambda x:tfidf[x], reverse=True)[:10]:
+        print('   ' + pair[0] + ' - ' + pair[1])
+
+if __name__ == "__main__":
+    main()
