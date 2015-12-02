@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se> 
+<w>Свежие<ana lex="свежий" gr="A=acc,pl,plen,inan" /><ana lex="свежий" gr="A=nom,pl,plen" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> — 
+<w>Википедия<ana lex="википедия" gr="S,f,inan=nom,sg" /></w> 
+<w>Помощь<ana lex="помощь" gr="S,f,inan=acc,sg" /><ana lex="помощь" gr="S,f,inan=nom,sg" /></w> 
+<w>Свежие<ana lex="свежий" gr="A=acc,pl,plen,inan" /><ana lex="свежий" gr="A=nom,pl,plen" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 
+<w>Перейти<ana lex="переходить" gr="V,tran=inf,pf" /></w> 
+<w>к<ana lex="к" gr="PR=" /></w>: 
+<w>навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w>, 
+<w>поиск<ana lex="поиск" gr="S,m,inan=acc,sg" /><ana lex="поиск" gr="S,m,inan=nom,sg" /></w> 
+<w>Ниже<ana lex="ниже" gr="ADV=" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>хронологическом<ana lex="хронологический" gr="A=abl,sg,plen,m" /><ana lex="хронологический" gr="A=abl,sg,plen,n" /></w> 
+<w>порядке<ana lex="порядок" gr="S,m,inan=abl,sg" /></w> 
+<w>перечислены<ana lex="перечислять" gr="V,tran=praet,pl,partcp,brev,pf,pass" /></w> 
+<w>последние<ana lex="последний" gr="A=acc,pl,plen,inan" /><ana lex="последний" gr="A=nom,pl,plen" /></w> 
+<w>изменения<ana lex="изменение" gr="S,n,inan=acc,pl" /><ana lex="изменение" gr="S,n,inan=gen,sg" /><ana lex="изменение" gr="S,n,inan=nom,pl" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> 
+<w>страницах<ana lex="страница" gr="S,f,inan=abl,pl" /></w> 
+<w>Википедии<ana lex="википедия" gr="S,f,inan=abl,sg" /><ana lex="википедия" gr="S,f,inan=acc,pl" /><ana lex="википедия" gr="S,f,inan=dat,sg" /><ana lex="википедия" gr="S,f,inan=gen,sg" /><ana lex="википедия" gr="S,f,inan=nom,pl" /></w>. 
+</se>
+<se>
+<w>Статьи<ana lex="статья" gr="S,f,inan=acc,pl" /><ana lex="статья" gr="S,f,inan=gen,sg" /><ana lex="статья" gr="S,f,inan=nom,pl" /></w> (1 271 602): 
+<w>К<ana lex="к" gr="PR=" /></w> 
+<w>улучшению<ana lex="улучшение" gr="S,n,inan=dat,sg" /></w> | 
+<w>К<ana lex="к" gr="PR=" /></w> 
+<w>удалению<ana lex="удаление" gr="S,n,inan=dat,sg" /></w> | 
+<w>К<ana lex="к" gr="PR=" /></w> 
+<w>переименованию<ana lex="переименование" gr="S,n,inan=dat,sg" /></w> | 
+<w>Хорошие<ana lex="хороший" gr="A=acc,pl,plen,inan" /><ana lex="хороший" gr="A=nom,pl,plen" /></w> | 
+<w>Избранные<ana lex="избранный" gr="A=acc,pl,plen,inan" /><ana lex="избранный" gr="A=nom,pl,plen" /></w> 
+<w>Правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 
+<w>новичков<ana lex="новичок" gr="S,m,anim=acc,pl" /><ana lex="новичок" gr="S,m,anim=gen,pl" /></w> | 
+<w>Журналы<ana lex="журнал" gr="S,m,inan=acc,pl" /><ana lex="журнал" gr="S,m,inan=nom,pl" /></w> | 
+<w>Срабатывания<ana lex="срабатывание" gr="S,n,inan=acc,pl" /><ana lex="срабатывание" gr="S,n,inan=gen,sg" /><ana lex="срабатывание" gr="S,n,inan=nom,pl" /></w> 
+<w>фильтров<ana lex="фильтр" gr="S,m,inan=gen,pl" /></w> | 
+<w>Запросы<ana lex="запрос" gr="S,m,inan=acc,pl" /><ana lex="запрос" gr="S,m,inan=nom,pl" /></w> 
+<w>к<ana lex="к" gr="PR=" /></w> 
+<w>администраторам<ana lex="администратор" gr="S,m,anim=dat,pl" /></w> | 
+<w>Другие<ana lex="другой" gr="APRO=nom,pl" /><ana lex="другой" gr="APRO=acc,pl,inan" /></w> 
+<w>проекты<ana lex="проект" gr="S,m,inan=acc,pl" /><ana lex="проект" gr="S,m,inan=nom,pl" /></w> 
+<w>Настройки<ana lex="настройка" gr="S,f,inan=acc,pl" /><ana lex="настройка" gr="S,f,inan=gen,sg" /><ana lex="настройка" gr="S,f,inan=nom,pl" /></w> 
+<w>свежих<ana lex="свежий" gr="A=abl,pl,plen" /><ana lex="свежий" gr="A=acc,pl,plen,anim" /><ana lex="свежий" gr="A=gen,pl,plen" /></w> 
+<w>правок<ana lex="правка" gr="S,f,inan=gen,pl" /></w> 
+<w>Легенда<ana lex="легенда" gr="S,f,inan=nom,sg" /></w>:  
+<w>Н<ana lex="н" gr="S,abbr=abl,pl" /><ana lex="н" gr="S,abbr=abl,sg" /><ana lex="н" gr="S,abbr=acc,pl" /><ana lex="н" gr="S,abbr=acc,sg" /><ana lex="н" gr="S,abbr=dat,pl" /><ana lex="н" gr="S,abbr=dat,sg" /><ana lex="н" gr="S,abbr=gen,pl" /><ana lex="н" gr="S,abbr=gen,sg" /><ana lex="н" gr="S,abbr=ins,pl" /><ana lex="н" gr="S,abbr=ins,sg" /><ana lex="н" gr="S,abbr=nom,pl" /><ana lex="н" gr="S,abbr=nom,sg" /></w> (
+<w>см<ana lex="см" gr="S,m,inan=abl,pl" /><ana lex="см" gr="S,m,inan=abl,sg" /><ana lex="см" gr="S,m,inan=acc,pl" /><ana lex="см" gr="S,m,inan=acc,sg" /><ana lex="см" gr="S,m,inan=dat,pl" /><ana lex="см" gr="S,m,inan=dat,sg" /><ana lex="см" gr="S,m,inan=gen,pl" /><ana lex="см" gr="S,m,inan=gen,sg" /><ana lex="см" gr="S,m,inan=ins,pl" /><ana lex="см" gr="S,m,inan=ins,sg" /><ana lex="см" gr="S,m,inan=nom,pl" /><ana lex="см" gr="S,m,inan=nom,sg" /></w>. 
+<w>отдельно<ana lex="отдельно" gr="ADV=" /></w>) 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>малые<ana lex="малый" gr="S,m,anim=nom,pl" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 
+<w>б<ana lex="б" gr="PART=" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 
+<w>ботов<ana lex="бот" gr="S,m,inan=gen,pl" /></w> 
+<w>д<ana lex="д" gr="S,abbr=abl,pl" /><ana lex="д" gr="S,abbr=abl,sg" /><ana lex="д" gr="S,abbr=acc,pl" /><ana lex="д" gr="S,abbr=acc,sg" /><ana lex="д" gr="S,abbr=dat,pl" /><ana lex="д" gr="S,abbr=dat,sg" /><ana lex="д" gr="S,abbr=gen,pl" /><ana lex="д" gr="S,abbr=gen,sg" /><ana lex="д" gr="S,abbr=ins,pl" /><ana lex="д" gr="S,abbr=ins,sg" /><ana lex="д" gr="S,abbr=nom,pl" /><ana lex="д" gr="S,abbr=nom,sg" /></w> 
+<w>правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>Викиданных<ana lex="викидать" qual="bastard" gr="V,pf,tran=praet,abl,pl,partcp,plen,pass" /><ana lex="викидать" qual="bastard" gr="V,pf,tran=praet,acc,pl,partcp,plen,pass,anim" /><ana lex="викидать" qual="bastard" gr="V,pf,tran=praet,gen,pl,partcp,plen,pass" /></w> (±123) 
+<w>изменение<ana lex="изменение" gr="S,n,inan=acc,sg" /><ana lex="изменение" gr="S,n,inan=nom,sg" /></w> 
+<w>размера<ana lex="размер" gr="S,m,inan=gen,sg" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>байтах<ana lex="байт" gr="S,m,inan=abl,pl" /></w> 
+<w>Показать<ana lex="показывать" gr="V=inf,pf" /></w> 
+<w>последние<ana lex="последний" gr="A=acc,pl,plen,inan" /><ana lex="последний" gr="A=nom,pl,plen" /></w> 50 | 100 | 250 | 500 
+<w>изменений<ana lex="изменение" gr="S,n,inan=gen,pl" /></w> 
+<w>за<ana lex="за" gr="PR=" /></w> 1 | 3 | 7 | 14 | 30 
+<w>днейСкрыть<ana lex="днейскрывать" qual="bastard" gr="V=inf,pf" /></w> 
+<w>малые<ana lex="малый" gr="A=acc,pl,plen,inan" /><ana lex="малый" gr="A=nom,pl,plen" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> | 
+<w>Показать<ana lex="показывать" gr="V=inf,pf" /></w> 
+<w>ботов<ana lex="бот" gr="S,m,inan=gen,pl" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>непредставившихся<ana lex="непредставляться" qual="bastard" gr="V,intr=praet,abl,pl,partcp,plen,pf,act" /><ana lex="непредставляться" qual="bastard" gr="V,intr=praet,gen,pl,partcp,plen,pf,act" /><ana lex="непредставляться" qual="bastard" gr="V,intr=praet,acc,pl,partcp,plen,pf,act,anim" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>представившихся<ana lex="представляться" gr="V,intr=praet,abl,pl,partcp,plen,pf,act" /><ana lex="представляться" gr="V,intr=praet,gen,pl,partcp,plen,pf,act" /><ana lex="представляться" gr="V,intr=praet,acc,pl,partcp,plen,pf,act,anim" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>свои<ana lex="свой" gr="APRO=nom,pl" /><ana lex="свой" gr="APRO=acc,pl,inan" /></w> | 
+<w>Показать<ana lex="показывать" gr="V=inf,pf" /></w> 
+<w>Викиданные<ana lex="викидать" qual="bastard" gr="V,pf,tran=praet,acc,pl,partcp,plen,pass,inan" /><ana lex="викидать" qual="bastard" gr="V,pf,tran=praet,nom,pl,partcp,plen,pass" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>проверенныеПоказать<ana lex="проверенныепоказывать" qual="bastard" gr="V=inf,pf" /></w> 
+<w>изменения<ana lex="изменение" gr="S,n,inan=acc,pl" /><ana lex="изменение" gr="S,n,inan=gen,sg" /><ana lex="изменение" gr="S,n,inan=nom,pl" /></w> 
+<w>с<ana lex="с" gr="PR=" /></w> 2 
+<w>декабря<ana lex="декабрь" gr="S,m,inan=gen,sg" /></w> 2015 12:37. 2 
+</se>
+<se>
+<w>декабря<ana lex="декабрь" gr="S,m,inan=gen,sg" /></w> 2015 (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Apple</w> A9X‎; 12:37 . . (+342)‎ . . ‎
+</se>
+<se>
+<w>Zboris</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Список<ana lex="список" gr="S,m,inan=acc,sg" /><ana lex="список" gr="S,m,inan=nom,sg" /></w> 
+<w>серий<ana lex="серия" gr="S,f,inan=gen,pl" /></w> 
+<w>мультсериала<ana lex="мультсериал" qual="bastard" gr="S,m,inan=gen,sg" /></w> «
+<w>Губка<ana lex="губка" gr="S,f,inan=nom,sg" /></w> 
+<w>Боб<ana lex="боб" gr="S,m,inan=acc,sg" /><ana lex="боб" gr="S,m,inan=nom,sg" /></w> 
+<w>Квадратные<ana lex="квадратный" gr="A=acc,pl,plen,inan" /><ana lex="квадратный" gr="A=nom,pl,plen" /></w> 
+<w>Штаны<ana lex="штаны" gr="S,pl,inan=acc" /><ana lex="штаны" gr="S,pl,inan=nom" /></w>»‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:37 . . (+2)‎ . . ‎37.29.41.142 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (→‎
+<w>Второй<ana lex="второй" gr="ANUM=abl,sg,f" /><ana lex="второй" gr="ANUM=dat,sg,f" /><ana lex="второй" gr="ANUM=gen,sg,f" /><ana lex="второй" gr="ANUM=ins,sg,f" /><ana lex="второй" gr="ANUM=acc,sg,m,inan" /><ana lex="второй" gr="ANUM=nom,sg,m" /></w> 
+<w>сезон<ana lex="сезон" gr="S,m,inan=acc,sg" /><ana lex="сезон" gr="S,m,inan=nom,sg" /></w> (1997-1998)) (
+<w>Метки<ana lex="метка" gr="S,f,inan=acc,pl" /><ana lex="метка" gr="S,f,inan=gen,sg" /><ana lex="метка" gr="S,f,inan=nom,pl" /></w>: 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>через<ana lex="через" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>приложение<ana lex="приложение" gr="S,n,inan=acc,sg" /><ana lex="приложение" gr="S,n,inan=nom,sg" /></w>, 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>с<ana lex="с" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>устройства<ana lex="устройство" gr="S,n,inan=acc,pl" /><ana lex="устройство" gr="S,n,inan=gen,sg" /><ana lex="устройство" gr="S,n,inan=nom,pl" /></w>) (
+<w>Журнал<ana lex="журнал" gr="S,m,inan=acc,sg" /><ana lex="журнал" gr="S,m,inan=nom,sg" /></w> 
+<w>регистрации<ana lex="регистрация" gr="S,f,inan=abl,sg" /><ana lex="регистрация" gr="S,f,inan=acc,pl" /><ana lex="регистрация" gr="S,f,inan=dat,sg" /><ana lex="регистрация" gr="S,f,inan=gen,sg" /><ana lex="регистрация" gr="S,f,inan=nom,pl" /></w> 
+<w>участников<ana lex="участник" gr="S,m,anim=acc,pl" /><ana lex="участник" gr="S,m,anim=gen,pl" /></w>); 12:37 . . 
+</se>
+<se>
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w> 
+<w>создал<ana lex="создавать" gr="V,tran=praet,sg,indic,m,pf" /></w> 
+<w>учётную<ana lex="учетный" gr="A=acc,sg,plen,f" /></w> 
+<w>запись<ana lex="запись" gr="S,f,inan=acc,sg" /><ana lex="запись" gr="S,f,inan=nom,sg" /></w> IlnurM98 (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>) ‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Восьмидесятые<ana lex="восьмидесятый" gr="ANUM=nom,pl" /><ana lex="восьмидесятый" gr="ANUM=acc,pl,inan" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:37 . . (0)‎ . . ‎2a01:4200:
+</se>
+<se>
+<w>caca</w>:8d9:c90:2367:
+<w>caab</w>:9b77 (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (→‎
+<w>Значимые<ana lex="значимый" gr="A=acc,pl,plen,inan" /><ana lex="значимый" gr="A=nom,pl,plen" /></w> 
+<w>исторические<ana lex="исторический" gr="A=acc,pl,plen,inan" /><ana lex="исторический" gr="A=nom,pl,plen" /></w> 
+<w>отсылки<ana lex="отсылка" gr="S,f,inan=acc,pl" /><ana lex="отсылка" gr="S,f,inan=gen,sg" /><ana lex="отсылка" gr="S,f,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Скребцов<ana lex="скребец" qual="bastard" gr="S,m,anim=acc,pl" /><ana lex="скребец" qual="bastard" gr="S,m,anim=gen,pl" /></w> 
+<w>Александр<ana lex="александр" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Михайлович<ana lex="михайлович" gr="S,patrn,m,anim=nom,sg" /></w>‎; 12:37 . . (+139)‎ . . ‎
+</se>
+<se>
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>отмена<ana lex="отмена" gr="S,f,inan=nom,sg" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 74771547 
+<w>участника<ana lex="участник" gr="S,m,anim=acc,sg" /><ana lex="участник" gr="S,m,anim=gen,sg" /></w> 
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>)) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Керр<ana lex="керр" qual="bastard" gr="S,m,anim=nom,sg" /></w>, 
+<w>Дуэйн<ana lex="дуэйн" gr="S,persn,m,anim=nom,sg" /></w>‎; 12:37 . . (+20)‎ . . ‎
+</se>
+<se>
+<w>Сидик<ana lex="сидик" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>из<ana lex="из" gr="PR=" /></w> 
+<w>ПТУ<ana lex="пту" gr="S,n,inan=abl,pl" /><ana lex="пту" gr="S,n,inan=abl,sg" /><ana lex="пту" gr="S,n,inan=acc,pl" /><ana lex="пту" gr="S,n,inan=acc,sg" /><ana lex="пту" gr="S,n,inan=dat,pl" /><ana lex="пту" gr="S,n,inan=dat,sg" /><ana lex="пту" gr="S,n,inan=gen,pl" /><ana lex="пту" gr="S,n,inan=gen,sg" /><ana lex="пту" gr="S,n,inan=ins,pl" /><ana lex="пту" gr="S,n,inan=ins,sg" /><ana lex="пту" gr="S,n,inan=nom,pl" /><ana lex="пту" gr="S,n,inan=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>викификация<ana lex="викификация" qual="bastard" gr="S,f,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 101 
+</se>
+<se>
+<w>далматинец<ana lex="далматинец" gr="S,m,anim=nom,sg" /></w> 2: 
+<w>Приключения<ana lex="приключение" gr="S,n,inan=acc,pl" /><ana lex="приключение" gr="S,n,inan=gen,sg" /><ana lex="приключение" gr="S,n,inan=nom,pl" /></w> 
+<w>Патча<ana lex="патч" gr="S,m,inan=gen,sg" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>Лондоне<ana lex="лондон" gr="S,geo,m,inan=abl,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:37 . . (+372)‎ . . ‎
+</se>
+<se>
+<w>Митя<ana lex="митя" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Логвиненко<ana lex="логвиненко" gr="S,famn,mf,anim=abl,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=abl,sg" /><ana lex="логвиненко" gr="S,famn,mf,anim=acc,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=acc,sg" /><ana lex="логвиненко" gr="S,famn,mf,anim=dat,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=dat,sg" /><ana lex="логвиненко" gr="S,famn,mf,anim=gen,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=gen,sg" /><ana lex="логвиненко" gr="S,famn,mf,anim=ins,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=ins,sg" /><ana lex="логвиненко" gr="S,famn,mf,anim=nom,pl" /><ana lex="логвиненко" gr="S,famn,mf,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Громобой<ana lex="громобой" gr="S,sg,m,inan=acc" /><ana lex="громобой" gr="S,sg,m,inan=nom" /></w>) (
+<w>Метки<ana lex="метка" gr="S,f,inan=acc,pl" /><ana lex="метка" gr="S,f,inan=gen,sg" /><ana lex="метка" gr="S,f,inan=nom,pl" /></w>: 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>с<ana lex="с" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>устройства<ana lex="устройство" gr="S,n,inan=acc,pl" /><ana lex="устройство" gr="S,n,inan=gen,sg" /><ana lex="устройство" gr="S,n,inan=nom,pl" /></w>, 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>через<ana lex="через" gr="PR=" /></w> 
+<w>мобильную<ana lex="мобильный" gr="A=acc,sg,plen,f" /></w> 
+<w>версию<ana lex="версия" gr="S,f,inan=acc,sg" /></w> 
+<w>сайта<ana lex="сайт" gr="S,m,inan=gen,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Скребцов<ana lex="скребец" qual="bastard" gr="S,m,anim=acc,pl" /><ana lex="скребец" qual="bastard" gr="S,m,anim=gen,pl" /></w> 
+<w>Александр<ana lex="александр" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Михайлович<ana lex="михайлович" gr="S,patrn,m,anim=nom,sg" /></w>‎; 12:36 . . (+386)‎ . . ‎
+</se>
+<se>
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>отмена<ana lex="отмена" gr="S,f,inan=nom,sg" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 74771555 
+<w>участника<ana lex="участник" gr="S,m,anim=acc,sg" /><ana lex="участник" gr="S,m,anim=gen,sg" /></w> 
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>)) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Всё<ana lex="все" gr="ADV=" /></w> 
+<w>ещё<ana lex="еще" gr="ADV=" /></w> 
+<w>Элис<ana lex="элис" gr="S,persn,f,anim=abl,pl" /><ana lex="элис" gr="S,persn,f,anim=abl,sg" /><ana lex="элис" gr="S,persn,f,anim=acc,pl" /><ana lex="элис" gr="S,persn,f,anim=acc,sg" /><ana lex="элис" gr="S,persn,f,anim=dat,pl" /><ana lex="элис" gr="S,persn,f,anim=dat,sg" /><ana lex="элис" gr="S,persn,f,anim=gen,pl" /><ana lex="элис" gr="S,persn,f,anim=gen,sg" /><ana lex="элис" gr="S,persn,f,anim=ins,pl" /><ana lex="элис" gr="S,persn,f,anim=ins,sg" /><ana lex="элис" gr="S,persn,f,anim=nom,pl" /><ana lex="элис" gr="S,persn,f,anim=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (-2)‎ . . ‎178.70.74.140 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (
+<w>Метка<ana lex="метка" gr="S,f,inan=nom,sg" /></w>: 
+<w>Визуальное<ana lex="визуальный" gr="A=acc,sg,plen,n" /><ana lex="визуальный" gr="A=nom,sg,plen,n" /></w> 
+<w>редактирование<ana lex="редактирование" gr="S,n,inan=acc,sg" /><ana lex="редактирование" gr="S,n,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Харенец<ana lex="харенец" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="харенец" qual="bastard" gr="S,m,inan=nom,sg" /></w>‎; 12:36 . . (+1)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Торпедные<ana lex="торпедный" gr="A=acc,pl,plen,inan" /><ana lex="торпедный" gr="A=nom,pl,plen" /></w> 
+<w>катера<ana lex="катер" gr="S,m,inan=acc,pl" /><ana lex="катер" gr="S,m,inan=gen,sg" /><ana lex="катер" gr="S,m,inan=nom,pl" /></w> 
+<w>типа<ana lex="тип" gr="S,m,inan=gen,sg" /></w> «
+<w>Г<ana lex="г" gr="S,abbr=abl,pl" /><ana lex="г" gr="S,abbr=abl,sg" /><ana lex="г" gr="S,abbr=acc,pl" /><ana lex="г" gr="S,abbr=acc,sg" /><ana lex="г" gr="S,abbr=dat,pl" /><ana lex="г" gr="S,abbr=dat,sg" /><ana lex="г" gr="S,abbr=gen,pl" /><ana lex="г" gr="S,abbr=gen,sg" /><ana lex="г" gr="S,abbr=ins,pl" /><ana lex="г" gr="S,abbr=ins,sg" /><ana lex="г" gr="S,abbr=nom,pl" /><ana lex="г" gr="S,abbr=nom,sg" /></w>-5»‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (+14)‎ . . ‎
+</se>
+<se>
+<w>Сергей<ana lex="сергей" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Сашов<ana lex="сашов" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Скребцов<ana lex="скребец" qual="bastard" gr="S,m,anim=acc,pl" /><ana lex="скребец" qual="bastard" gr="S,m,anim=gen,pl" /></w> 
+<w>Александр<ana lex="александр" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Михайлович<ana lex="михайлович" gr="S,patrn,m,anim=nom,sg" /></w>‎; 12:36 . . (+419)‎ . . ‎
+</se>
+<se>
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>отмена<ana lex="отмена" gr="S,f,inan=nom,sg" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 74854259 
+<w>участника<ana lex="участник" gr="S,m,anim=acc,sg" /><ana lex="участник" gr="S,m,anim=gen,sg" /></w> 
+<w>Library</w> 
+<w>PSTU</w> (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>)) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Apple</w> A8X‎; 12:36 . . (+8)‎ . . ‎
+</se>
+<se>
+<w>Zboris</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w>:
+<w>Berillium</w>/
+<w>Песочница<ana lex="песочница" gr="S,f,inan=nom,sg" /></w> 1‎; 12:36 . . (+1015)‎ . . ‎
+</se>
+<se>
+<w>Бериллий<ana lex="бериллий" gr="S,m,inan=acc,sg" /><ana lex="бериллий" gr="S,m,inan=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Миссия<ana lex="миссия" gr="S,f,inan=nom,sg" /></w> 
+<w>невыполнима<ana lex="невыполнимый" gr="A=sg,brev,f" /></w> (
+<w>телесериал<ana lex="телесериал" gr="S,m,inan=acc,sg" /><ana lex="телесериал" gr="S,m,inan=nom,sg" /></w>, 1966)‎; 12:36 . . (+287)‎ . . ‎
+</se>
+<se>
+<w>Person</w> 
+<w>or</w> 
+<w>Persons</w> 
+<w>Unknown</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Сезон<ana lex="сезон" gr="S,m,inan=acc,sg" /><ana lex="сезон" gr="S,m,inan=nom,sg" /></w> 1 (1966—1967)) (
+<w>Метки<ana lex="метка" gr="S,f,inan=acc,pl" /><ana lex="метка" gr="S,f,inan=gen,sg" /><ana lex="метка" gr="S,f,inan=nom,pl" /></w>: 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>с<ana lex="с" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>устройства<ana lex="устройство" gr="S,n,inan=acc,pl" /><ana lex="устройство" gr="S,n,inan=gen,sg" /><ana lex="устройство" gr="S,n,inan=nom,pl" /></w>, 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>через<ana lex="через" gr="PR=" /></w> 
+<w>мобильную<ana lex="мобильный" gr="A=acc,sg,plen,f" /></w> 
+<w>версию<ana lex="версия" gr="S,f,inan=acc,sg" /></w> 
+<w>сайта<ana lex="сайт" gr="S,m,inan=gen,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Банковское<ana lex="банковский" gr="A=acc,sg,plen,n" /><ana lex="банковский" gr="A=nom,sg,plen,n" /></w> 
+<w>дело<ana lex="дело" gr="S,n,inan=acc,sg" /><ana lex="дело" gr="S,n,inan=nom,sg" /></w> 
+<w>во<ana lex="во" gr="PR=" /></w> 
+<w>Львове<ana lex="львов" gr="S,geo,m,inan=abl,sg" /></w>‎; 12:36 . . (+583)‎ . . ‎
+</se>
+<se>
+<w>Alex</w> 
+<w>fand</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Период<ana lex="период" gr="S,m,inan=acc,sg" /><ana lex="период" gr="S,m,inan=nom,sg" /></w> 
+<w>независимой<ana lex="независимый" gr="A=abl,sg,plen,f" /><ana lex="независимый" gr="A=dat,sg,plen,f" /><ana lex="независимый" gr="A=gen,sg,plen,f" /><ana lex="независимый" gr="A=ins,sg,plen,f" /></w> 
+<w>Украины<ana lex="украина" gr="S,geo,f,inan=acc,pl" /><ana lex="украина" gr="S,geo,f,inan=gen,sg" /><ana lex="украина" gr="S,geo,f,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Институт<ana lex="институт" gr="S,m,inan=acc,sg" /><ana lex="институт" gr="S,m,inan=nom,sg" /></w> 
+<w>физики<ana lex="физика" gr="S,f,inan=acc,pl" /><ana lex="физика" gr="S,f,inan=gen,sg" /><ana lex="физика" gr="S,f,inan=nom,pl" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (+57)‎ . . ‎
+</se>
+<se>
+<w>Inventcreat</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Награждения<ana lex="награждение" gr="S,n,inan=acc,pl" /><ana lex="награждение" gr="S,n,inan=gen,sg" /><ana lex="награждение" gr="S,n,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Восьмидесятые<ana lex="восьмидесятый" gr="ANUM=nom,pl" /><ana lex="восьмидесятый" gr="ANUM=acc,pl,inan" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (-2)‎ . . ‎2a01:4200:
+</se>
+<se>
+<w>caca</w>:8d9:c90:2367:
+<w>caab</w>:9b77 (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (→‎
+<w>Значимые<ana lex="значимый" gr="A=acc,pl,plen,inan" /><ana lex="значимый" gr="A=nom,pl,plen" /></w> 
+<w>исторические<ana lex="исторический" gr="A=acc,pl,plen,inan" /><ana lex="исторический" gr="A=nom,pl,plen" /></w> 
+<w>отсылки<ana lex="отсылка" gr="S,f,inan=acc,pl" /><ana lex="отсылка" gr="S,f,inan=gen,sg" /><ana lex="отсылка" gr="S,f,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Сипатова<ana lex="сипатова" qual="bastard" gr="S,famn,f,anim=nom,sg" /></w>, 
+<w>Вера<ana lex="вера" gr="S,persn,f,anim=nom,sg" /></w> 
+<w>Васильевна<ana lex="васильевна" gr="S,patrn,f,anim=nom,sg" /></w>‎; 12:36 . . (+1031)‎ . . ‎
+</se>
+<se>
+<w>Nicolas</w>-
+<w>a</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Всё<ana lex="все" gr="ADV=" /></w> 
+<w>ещё<ana lex="еще" gr="ADV=" /></w> 
+<w>Элис<ana lex="элис" gr="S,persn,f,anim=abl,pl" /><ana lex="элис" gr="S,persn,f,anim=abl,sg" /><ana lex="элис" gr="S,persn,f,anim=acc,pl" /><ana lex="элис" gr="S,persn,f,anim=acc,sg" /><ana lex="элис" gr="S,persn,f,anim=dat,pl" /><ana lex="элис" gr="S,persn,f,anim=dat,sg" /><ana lex="элис" gr="S,persn,f,anim=gen,pl" /><ana lex="элис" gr="S,persn,f,anim=gen,sg" /><ana lex="элис" gr="S,persn,f,anim=ins,pl" /><ana lex="элис" gr="S,persn,f,anim=ins,sg" /><ana lex="элис" gr="S,persn,f,anim=nom,pl" /><ana lex="элис" gr="S,persn,f,anim=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (-8)‎ . . ‎178.70.74.140 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (&quot;
+<w>удостоена<ana lex="удостоить" gr="V,pf,tran=praet,sg,partcp,brev,f,pass" /></w> 
+<w>несколькими<ana lex="несколько" gr="NUM=" /><ana lex="несколько" gr="NUM=ins" /></w> 
+<w>наградами<ana lex="награда" gr="S,f,inan=ins,pl" /></w>&quot; 
+<w>заменил<ana lex="заменять" gr="V,tran=praet,sg,indic,m,pf" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> &quot;
+<w>удостоена<ana lex="удостоить" gr="V,pf,tran=praet,sg,partcp,brev,f,pass" /></w> 
+<w>нескольких<ana lex="несколько" gr="NUM=" /><ana lex="несколько" gr="NUM=abl" /><ana lex="несколько" gr="NUM=gen" /><ana lex="несколько" gr="NUM=acc,anim" /></w> 
+<w>наград<ana lex="награда" gr="S,f,inan=gen,pl" /></w>&quot;.) (
+</se>
+<se>
+<w>Метка<ana lex="метка" gr="S,f,inan=nom,sg" /></w>: 
+<w>Визуальное<ana lex="визуальный" gr="A=acc,sg,plen,n" /><ana lex="визуальный" gr="A=nom,sg,plen,n" /></w> 
+<w>редактирование<ana lex="редактирование" gr="S,n,inan=acc,sg" /><ana lex="редактирование" gr="S,n,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Список<ana lex="список" gr="S,m,inan=acc,sg" /><ana lex="список" gr="S,m,inan=nom,sg" /></w> 
+<w>серий<ana lex="серия" gr="S,f,inan=gen,pl" /></w> 
+<w>мультсериала<ana lex="мультсериал" qual="bastard" gr="S,m,inan=gen,sg" /></w> «
+<w>Губка<ana lex="губка" gr="S,f,inan=nom,sg" /></w> 
+<w>Боб<ana lex="боб" gr="S,m,inan=acc,sg" /><ana lex="боб" gr="S,m,inan=nom,sg" /></w> 
+<w>Квадратные<ana lex="квадратный" gr="A=acc,pl,plen,inan" /><ana lex="квадратный" gr="A=nom,pl,plen" /></w> 
+<w>Штаны<ana lex="штаны" gr="S,pl,inan=acc" /><ana lex="штаны" gr="S,pl,inan=nom" /></w>»‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (-2)‎ . . ‎37.29.41.142 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (→‎
+<w>Второй<ana lex="второй" gr="ANUM=abl,sg,f" /><ana lex="второй" gr="ANUM=dat,sg,f" /><ana lex="второй" gr="ANUM=gen,sg,f" /><ana lex="второй" gr="ANUM=ins,sg,f" /><ana lex="второй" gr="ANUM=acc,sg,m,inan" /><ana lex="второй" gr="ANUM=nom,sg,m" /></w> 
+<w>сезон<ana lex="сезон" gr="S,m,inan=acc,sg" /><ana lex="сезон" gr="S,m,inan=nom,sg" /></w> (1997—1999)) (
+<w>Метки<ana lex="метка" gr="S,f,inan=acc,pl" /><ana lex="метка" gr="S,f,inan=gen,sg" /><ana lex="метка" gr="S,f,inan=nom,pl" /></w>: 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>через<ana lex="через" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>приложение<ana lex="приложение" gr="S,n,inan=acc,sg" /><ana lex="приложение" gr="S,n,inan=nom,sg" /></w>, 
+<w>Правка<ana lex="правка" gr="S,f,inan=nom,sg" /></w> 
+<w>с<ana lex="с" gr="PR=" /></w> 
+<w>моб<ana lex="моб" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="моб" qual="bastard" gr="S,m,inan=nom,sg" /></w>. 
+<w>устройства<ana lex="устройство" gr="S,n,inan=acc,pl" /><ana lex="устройство" gr="S,n,inan=gen,sg" /><ana lex="устройство" gr="S,n,inan=nom,pl" /></w>) (
+<w>Журнал<ana lex="журнал" gr="S,m,inan=acc,sg" /><ana lex="журнал" gr="S,m,inan=nom,sg" /></w> 
+<w>регистрации<ana lex="регистрация" gr="S,f,inan=abl,sg" /><ana lex="регистрация" gr="S,f,inan=acc,pl" /><ana lex="регистрация" gr="S,f,inan=dat,sg" /><ana lex="регистрация" gr="S,f,inan=gen,sg" /><ana lex="регистрация" gr="S,f,inan=nom,pl" /></w> 
+<w>участников<ana lex="участник" gr="S,m,anim=acc,pl" /><ana lex="участник" gr="S,m,anim=gen,pl" /></w>); 12:36 . . 
+</se>
+<se>
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w> 
+<w>создал<ana lex="создавать" gr="V,tran=praet,sg,indic,m,pf" /></w> 
+<w>учётную<ana lex="учетный" gr="A=acc,sg,plen,f" /></w> 
+<w>запись<ana lex="запись" gr="S,f,inan=acc,sg" /><ana lex="запись" gr="S,f,inan=nom,sg" /></w> 
+<w>Евгения<ana lex="евгений" gr="S,persn,m,anim=acc,sg" /><ana lex="евгений" gr="S,persn,m,anim=gen,sg" /></w> 
+<w>кондрашова<ana lex="кондрашов" gr="S,famn,m,anim=acc,sg" /><ana lex="кондрашов" gr="S,famn,m,anim=gen,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>) ‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Фахретдинов<ana lex="фахретдинов" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Ризаитдин<ana lex="ризаитдин" qual="bastard" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Фахретдинович<ana lex="фахретдинович" gr="S,patrn,m,anim=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (+64)‎ . . ‎
+</se>
+<se>
+<w>Jannikol</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Память<ana lex="память" gr="S,f,inan=acc,sg" /><ana lex="память" gr="S,f,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Михайлов<ana lex="михайлов" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Александр<ana lex="александр" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Алексеевич<ana lex="алексеевич" gr="S,patrn,m,anim=nom,sg" /></w> (
+<w>значения<ana lex="значение" gr="S,n,inan=acc,pl" /><ana lex="значение" gr="S,n,inan=gen,sg" /><ana lex="значение" gr="S,n,inan=nom,pl" /></w>)‎; 12:36 . . (0)‎ . . ‎
+</se>
+<se>
+<w>CheloVechek</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>уточнение<ana lex="уточнение" gr="S,n,inan=acc,sg" /><ana lex="уточнение" gr="S,n,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Ломами<ana lex="лом" gr="S,m,inan=ins,pl" /></w>‎; 12:36 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>История<ana lex="история" gr="S,f,inan=nom,sg" /></w> 
+<w>Карелии<ana lex="карелия" gr="S,geo,f,inan=abl,sg" /><ana lex="карелия" gr="S,geo,f,inan=acc,pl" /><ana lex="карелия" gr="S,geo,f,inan=dat,sg" /><ana lex="карелия" gr="S,geo,f,inan=gen,sg" /><ana lex="карелия" gr="S,geo,f,inan=nom,pl" /></w>‎; 12:36 . . (+117)‎ . . ‎Vyacheslav84 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Карелия<ana lex="карелия" gr="S,geo,f,inan=nom,sg" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>эпоху<ana lex="эпоха" gr="S,f,inan=acc,sg" /></w> 
+<w>викингов<ana lex="викинг" gr="S,m,anim=acc,pl" /><ana lex="викинг" gr="S,m,anim=gen,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Новицки<ana lex="новицкий" qual="bastard" gr="A=pl,brev" /></w>, 
+<w>Дирк<ana lex="дирк" gr="S,persn,m,anim=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:36 . . (-90)‎ . . ‎
+</se>
+<se>
+<w>Акутагава<ana lex="акутагава" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Ранние<ana lex="ранний" gr="A=acc,pl,plen,inan" /><ana lex="ранний" gr="A=nom,pl,plen" /></w> 
+<w>годы<ana lex="год" gr="S,m,inan=acc,pl" /><ana lex="год" gr="S,m,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Н<ana lex="н" gr="S,abbr=abl,pl" /><ana lex="н" gr="S,abbr=abl,sg" /><ana lex="н" gr="S,abbr=acc,pl" /><ana lex="н" gr="S,abbr=acc,sg" /><ana lex="н" gr="S,abbr=dat,pl" /><ana lex="н" gr="S,abbr=dat,sg" /><ana lex="н" gr="S,abbr=gen,pl" /><ana lex="н" gr="S,abbr=gen,sg" /><ana lex="н" gr="S,abbr=ins,pl" /><ana lex="н" gr="S,abbr=ins,sg" /><ana lex="н" gr="S,abbr=nom,pl" /><ana lex="н" gr="S,abbr=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>:
+<w>Катастрофа<ana lex="катастрофа" gr="S,f,inan=nom,sg" /></w> 
+<w>Ми<ana lex="ми" gr="S,n,inan=abl,pl" /><ana lex="ми" gr="S,n,inan=abl,sg" /><ana lex="ми" gr="S,n,inan=acc,pl" /><ana lex="ми" gr="S,n,inan=acc,sg" /><ana lex="ми" gr="S,n,inan=dat,pl" /><ana lex="ми" gr="S,n,inan=dat,sg" /><ana lex="ми" gr="S,n,inan=gen,pl" /><ana lex="ми" gr="S,n,inan=gen,sg" /><ana lex="ми" gr="S,n,inan=ins,pl" /><ana lex="ми" gr="S,n,inan=ins,sg" /><ana lex="ми" gr="S,n,inan=nom,pl" /><ana lex="ми" gr="S,n,inan=nom,sg" /></w>-8 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>Красноярском<ana lex="красноярский" gr="A=abl,sg,plen,m" /><ana lex="красноярский" gr="A=abl,sg,plen,n" /></w> 
+<w>крае<ana lex="край" gr="S,m,inan=abl,sg" /></w>‎; 12:35 . . (+444)‎ . . ‎
+</se>
+<se>
+<w>Peter</w> 
+<w>Porai</w>-
+<w>Koshits</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (← 
+<w>Новая<ana lex="новый" gr="A=nom,sg,plen,f" /></w> 
+<w>страница<ana lex="страница" gr="S,f,inan=nom,sg" /></w>: «== 
+<w>Рассказ<ana lex="рассказ" gr="S,m,inan=acc,sg" /><ana lex="рассказ" gr="S,m,inan=nom,sg" /></w> 
+<w>очевидца<ana lex="очевидец" gr="S,m,anim=acc,sg" /><ana lex="очевидец" gr="S,m,anim=gen,sg" /></w> == [
+<w>http</w>://
+<w>golos</w>-
+<w>porechan</w>.
+<w>ucoz</w>.
+<w>ru</w>/
+<w>news</w>/
+<w>khronologija</w>_
+<w>spasenija</w>_
+<w>neschastnykh</w>_
+<w>passazhirov</w>/2015-12-01-673 
+<w>Хрон<ana lex="хрон" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="хрон" qual="bastard" gr="S,m,inan=nom,sg" /></w>…») (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Олимпийский<ana lex="олимпийский" gr="A=acc,sg,plen,m,inan" /><ana lex="олимпийский" gr="A=nom,sg,plen,m" /></w> 
+<w>парк<ana lex="парк" gr="S,m,inan=acc,sg" /><ana lex="парк" gr="S,m,inan=nom,sg" /></w> (
+<w>Сочи<ana lex="сочи" gr="S,geo,m,inan=abl,pl" /><ana lex="сочи" gr="S,geo,m,inan=abl,sg" /><ana lex="сочи" gr="S,geo,m,inan=acc,pl" /><ana lex="сочи" gr="S,geo,m,inan=acc,sg" /><ana lex="сочи" gr="S,geo,m,inan=dat,pl" /><ana lex="сочи" gr="S,geo,m,inan=dat,sg" /><ana lex="сочи" gr="S,geo,m,inan=gen,pl" /><ana lex="сочи" gr="S,geo,m,inan=gen,sg" /><ana lex="сочи" gr="S,geo,m,inan=ins,pl" /><ana lex="сочи" gr="S,geo,m,inan=ins,sg" /><ana lex="сочи" gr="S,geo,m,inan=nom,pl" /><ana lex="сочи" gr="S,geo,m,inan=nom,sg" /></w>)‎; 12:35 . . (-39)‎ . . ‎
+</se>
+<se>
+<w>Leonrid</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>тут<ana lex="тут" gr="ADVPRO=" /></w> 
+<w>одни<ana lex="один" gr="APRO=nom,pl" /><ana lex="один" gr="APRO=acc,pl,inan" /></w> 
+<w>факты<ana lex="факт" gr="S,m,inan=acc,pl" /><ana lex="факт" gr="S,m,inan=nom,pl" /></w> 
+<w>собраны<ana lex="собирать" gr="V=praet,pl,partcp,brev,pf,pass" /></w>, 
+<w>к<ana lex="к" gr="PR=" /></w> 
+<w>тому<ana lex="то" gr="SPRO,sg,n,inan=dat" /></w> 
+<w>же<ana lex="же" gr="PART=" /></w> 
+<w>о<ana lex="о" gr="PR=" /></w> 
+<w>данном<ana lex="данный" gr="A,plen=abl,sg,m" /><ana lex="данный" gr="A,plen=abl,sg,n" /></w> 
+<w>объекте<ana lex="объект" gr="S,m,inan=abl,sg" /></w> 
+<w>рассказывается<ana lex="рассказываться" gr="V,ipf,intr=inpraes,sg,indic,3p" /></w> 
+<w>только<ana lex="только" gr="PART=" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>этой<ana lex="этот" gr="APRO=abl,sg,f" /><ana lex="этот" gr="APRO=dat,sg,f" /><ana lex="этот" gr="APRO=gen,sg,f" /><ana lex="этот" gr="APRO=ins,sg,f" /></w> 
+<w>статье<ana lex="статья" gr="S,f,inan=abl,sg" /><ana lex="статья" gr="S,f,inan=dat,sg" /></w>, 
+<w>про<ana lex="про" gr="PR=" /></w> 
+<w>другие<ana lex="другой" gr="APRO=nom,pl" /><ana lex="другой" gr="APRO=acc,pl,inan" /></w> 
+<w>объекты<ana lex="объект" gr="S,m,inan=acc,pl" /><ana lex="объект" gr="S,m,inan=nom,pl" /></w> — 
+<w>есть<ana lex="быть" gr="V,intr=inpraes,sg,indic,3p,ipf" /><ana lex="быть" gr="V,intr=inpraes,pl,indic,3p,ipf" /><ana lex="быть" gr="V,intr=praes,pl,indic,1p,ipf" /><ana lex="быть" gr="V,intr=praes,sg,indic,1p,ipf" /><ana lex="быть" gr="V,intr=praes,pl,indic,2p,ipf" /><ana lex="быть" gr="V,intr=praes,sg,indic,2p,ipf" /><ana lex="быть" gr="V,intr=praes,pl,indic,3p,ipf" /><ana lex="быть" gr="V,intr=praes,sg,indic,3p,ipf" /></w> 
+<w>отдельные<ana lex="отдельный" gr="A=acc,pl,plen,inan" /><ana lex="отдельный" gr="A=nom,pl,plen" /></w> 
+<w>статьи<ana lex="статья" gr="S,f,inan=acc,pl" /><ana lex="статья" gr="S,f,inan=gen,sg" /><ana lex="статья" gr="S,f,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Улица<ana lex="улица" gr="S,f,inan=nom,sg" /></w> 
+<w>Вересаева<ana lex="вересаев" qual="bastard" gr="S,famn,m,anim=acc,sg" /><ana lex="вересаев" qual="bastard" gr="S,famn,m,anim=gen,sg" /></w> (
+<w>Москва<ana lex="москва" gr="S,geo,f,inan=nom,sg" /></w>)‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:35 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Томография<ana lex="томография" gr="S,f,inan=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:35 . . (-658)‎ . . ‎
+</se>
+<se>
+<w>Inversitus</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Виды<ana lex="вид" gr="S,m,inan=acc,pl" /><ana lex="вид" gr="S,m,inan=nom,pl" /></w> 
+<w>томографии<ana lex="томография" gr="S,f,inan=abl,sg" /><ana lex="томография" gr="S,f,inan=acc,pl" /><ana lex="томография" gr="S,f,inan=dat,sg" /><ana lex="томография" gr="S,f,inan=gen,sg" /><ana lex="томография" gr="S,f,inan=nom,pl" /></w>: 
+<w>спорное<ana lex="спорный" gr="A=acc,sg,plen,n" /><ana lex="спорный" gr="A=nom,sg,plen,n" /></w> 
+<w>утверждение<ana lex="утверждение" gr="S,n,inan=acc,sg" /><ana lex="утверждение" gr="S,n,inan=nom,sg" /></w> 
+<w>без<ana lex="без" gr="PR=" /></w> 
+<w>аи<ana lex="аи" gr="S,n,inan=abl,pl" /><ana lex="аи" gr="S,n,inan=abl,sg" /><ana lex="аи" gr="S,n,inan=acc,pl" /><ana lex="аи" gr="S,n,inan=acc,sg" /><ana lex="аи" gr="S,n,inan=dat,pl" /><ana lex="аи" gr="S,n,inan=dat,sg" /><ana lex="аи" gr="S,n,inan=gen,pl" /><ana lex="аи" gr="S,n,inan=gen,sg" /><ana lex="аи" gr="S,n,inan=ins,pl" /><ana lex="аи" gr="S,n,inan=ins,sg" /><ana lex="аи" gr="S,n,inan=nom,pl" /><ana lex="аи" gr="S,n,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Колорадо-Спрингс<ana lex="колорадо-спрингс" gr="S,m,inan=acc,sg" /><ana lex="колорадо-спрингс" gr="S,m,inan=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:35 . . (+1321)‎ . . ‎91.242.222.201 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (
+<w>Метка<ana lex="метка" gr="S,f,inan=nom,sg" /></w>: 
+<w>Визуальное<ana lex="визуальный" gr="A=acc,sg,plen,n" /><ana lex="визуальный" gr="A=nom,sg,plen,n" /></w> 
+<w>редактирование<ana lex="редактирование" gr="S,n,inan=acc,sg" /><ana lex="редактирование" gr="S,n,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Военная<ana lex="военный" gr="A=nom,sg,plen,f" /></w> 
+<w>операция<ana lex="операция" gr="S,f,inan=nom,sg" /></w> 
+<w>России<ana lex="россия" gr="S,geo,f,inan=abl,sg" /><ana lex="россия" gr="S,geo,f,inan=acc,pl" /><ana lex="россия" gr="S,geo,f,inan=dat,sg" /><ana lex="россия" gr="S,geo,f,inan=gen,sg" /><ana lex="россия" gr="S,geo,f,inan=nom,pl" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>Сирии<ana lex="сирия" gr="S,geo,f,inan=abl,sg" /><ana lex="сирия" gr="S,geo,f,inan=acc,pl" /><ana lex="сирия" gr="S,geo,f,inan=dat,sg" /><ana lex="сирия" gr="S,geo,f,inan=gen,sg" /><ana lex="сирия" gr="S,geo,f,inan=nom,pl" /></w>‎; 12:35 . . (-119)‎ . . ‎Vasyan174 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Слободско<ana lex="слободский" gr="A=sg,brev,n" /></w>-
+<w>Украинская<ana lex="украинский" gr="A,geo=nom,sg,plen,f" /></w> 
+<w>губерния<ana lex="губерния" gr="S,f,inan=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:35 . . (-12)‎ . . ‎
+</se>
+<se>
+<w>Юрий<ana lex="юрий" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Владимирович<ana lex="владимирович" gr="S,patrn,m,anim=nom,sg" /></w> 
+<w>Л<ana lex="л" gr="S,abbr=abl,pl" /><ana lex="л" gr="S,abbr=abl,sg" /><ana lex="л" gr="S,abbr=acc,pl" /><ana lex="л" gr="S,abbr=acc,sg" /><ana lex="л" gr="S,abbr=dat,pl" /><ana lex="л" gr="S,abbr=dat,sg" /><ana lex="л" gr="S,abbr=gen,pl" /><ana lex="л" gr="S,abbr=gen,sg" /><ana lex="л" gr="S,abbr=ins,pl" /><ana lex="л" gr="S,abbr=ins,sg" /><ana lex="л" gr="S,abbr=nom,pl" /><ana lex="л" gr="S,abbr=nom,sg" /></w>. (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>откат<ana lex="откат" gr="S,m,inan=acc,sg" /><ana lex="откат" gr="S,m,inan=nom,sg" /></w> 
+<w>правок<ana lex="правка" gr="S,f,inan=gen,pl" /></w> 194.158.204.70 (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>) 
+<w>к<ana lex="к" gr="S,abbr=abl,pl" /><ana lex="к" gr="S,abbr=abl,sg" /><ana lex="к" gr="S,abbr=acc,pl" /><ana lex="к" gr="S,abbr=acc,sg" /><ana lex="к" gr="S,abbr=dat,pl" /><ana lex="к" gr="S,abbr=dat,sg" /><ana lex="к" gr="S,abbr=gen,pl" /><ana lex="к" gr="S,abbr=gen,sg" /><ana lex="к" gr="S,abbr=ins,pl" /><ana lex="к" gr="S,abbr=ins,sg" /><ana lex="к" gr="S,abbr=nom,pl" /><ana lex="к" gr="S,abbr=nom,sg" /></w> 
+<w>версии<ana lex="версия" gr="S,f,inan=abl,sg" /><ana lex="версия" gr="S,f,inan=acc,pl" /><ana lex="версия" gr="S,f,inan=dat,sg" /><ana lex="версия" gr="S,f,inan=gen,sg" /><ana lex="версия" gr="S,f,inan=nom,pl" /></w> 
+<w>Artemka</w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Дубки<ana lex="дубок" gr="S,m,inan=acc,pl" /><ana lex="дубок" gr="S,m,inan=nom,pl" /></w> (
+<w>Крым<ana lex="крым" gr="S,geo,m,inan=acc,sg" /><ana lex="крым" gr="S,geo,m,inan=nom,sg" /></w>)‎; 12:35 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Baccy</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>отмена<ana lex="отмена" gr="S,f,inan=nom,sg" /></w> 
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w> 74868756 
+<w>участника<ana lex="участник" gr="S,m,anim=acc,sg" /><ana lex="участник" gr="S,m,anim=gen,sg" /></w> 195.88.52.4 (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>)) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Хади<ana lex="хади" qual="bastard" gr="S,persn,m,anim=abl,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=abl,sg" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=acc,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=acc,sg" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=dat,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=dat,sg" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=gen,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=gen,sg" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=ins,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=ins,sg" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=nom,pl" /><ana lex="хади" qual="bastard" gr="S,persn,m,anim=nom,sg" /></w>, 
+<w>Абд<ana lex="абд" qual="bastard" gr="S,f,inan=abl,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=abl,sg" /><ana lex="абд" qual="bastard" gr="S,f,inan=acc,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=acc,sg" /><ana lex="абд" qual="bastard" gr="S,f,inan=dat,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=dat,sg" /><ana lex="абд" qual="bastard" gr="S,f,inan=gen,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=gen,sg" /><ana lex="абд" qual="bastard" gr="S,f,inan=ins,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=ins,sg" /><ana lex="абд" qual="bastard" gr="S,f,inan=nom,pl" /><ana lex="абд" qual="bastard" gr="S,f,inan=nom,sg" /></w>-
+<w>Раббу<ana lex="рабба" qual="bastard" gr="S,persn,m,anim=acc,sg" /></w> 
+<w>Мансур<ana lex="мансур" gr="S,persn,m,anim=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:35 . . (+2956)‎ . . ‎
+</se>
+<se>
+<w>Пэйнчик<ana lex="пэйнчик" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Н<ana lex="н" gr="S,abbr=abl,pl" /><ana lex="н" gr="S,abbr=abl,sg" /><ana lex="н" gr="S,abbr=acc,pl" /><ana lex="н" gr="S,abbr=acc,sg" /><ana lex="н" gr="S,abbr=dat,pl" /><ana lex="н" gr="S,abbr=dat,sg" /><ana lex="н" gr="S,abbr=gen,pl" /><ana lex="н" gr="S,abbr=gen,sg" /><ana lex="н" gr="S,abbr=ins,pl" /><ana lex="н" gr="S,abbr=ins,sg" /><ana lex="н" gr="S,abbr=nom,pl" /><ana lex="н" gr="S,abbr=nom,sg" /></w> 
+<w>Малая<ana lex="малый" gr="A=nom,sg,plen,f" /></w> 
+<w>Турша<ana lex="турш" qual="bastard" gr="S,m,anim=acc,sg" /><ana lex="турш" qual="bastard" gr="S,m,anim=gen,sg" /></w>‎; 12:35 . . (+5403)‎ . . ‎
+</se>
+<se>
+<w>Wintik</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (← 
+<w>Новая<ana lex="новый" gr="A=nom,sg,plen,f" /></w> 
+<w>страница<ana lex="страница" gr="S,f,inan=nom,sg" /></w>: «{{
+<w>НП</w>+
+<w>Россия<ana lex="россия" gr="S,geo,f,inan=nom,sg" /></w> | 
+<w>статус<ana lex="статус" gr="S,m,inan=acc,sg" /><ana lex="статус" gr="S,m,inan=nom,sg" /></w> = 
+<w>деревня<ana lex="деревня" gr="S,f,inan=nom,sg" /></w> | 
+<w>русское<ana lex="русский" gr="A=acc,sg,plen,n" /><ana lex="русский" gr="A=nom,sg,plen,n" /></w> 
+<w>название<ana lex="название" gr="S,n,inan=acc,sg" /><ana lex="название" gr="S,n,inan=nom,sg" /></w> = {{
+<w>PAGENAME</w>}} | 
+<w>оригин<ana lex="оригин" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>…») (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Калм<ana lex="калм" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="калм" qual="bastard" gr="S,m,inan=nom,sg" /></w> (
+<w>река<ana lex="река" gr="S,f,inan=nom,sg" /></w>)‎; 12:35 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Восьмидесятые<ana lex="восьмидесятый" gr="ANUM=nom,pl" /><ana lex="восьмидесятый" gr="ANUM=acc,pl,inan" /></w>‎; 12:34 . . (+94)‎ . . ‎
+</se>
+<se>
+<w>Alexander</w> 
+<w>nt</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>:
+<w>Брэгг<ana lex="брэгга" qual="bastard" gr="S,persn,m,anim=acc,pl" /><ana lex="брэгга" qual="bastard" gr="S,persn,m,anim=gen,pl" /></w>, 
+<w>Пол<ana lex="пол" gr="S,m,inan=acc,sg" /><ana lex="пол" gr="S,m,inan=nom,sg" /></w>‎; 12:34 . . (+297)‎ . . ‎
+</se>
+<se>
+<w>I</w>.
+<w>G</w>.
+<w>I</w>.
+<w>cool</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>ссылка<ana lex="ссылка" gr="S,f,inan=nom,sg" /></w>: 
+<w>новая<ana lex="новый" gr="A=nom,sg,plen,f" /></w> 
+<w>тема<ana lex="тема" gr="S,f,inan=nom,sg" /></w>) (
+<w>Журнал<ana lex="журнал" gr="S,m,inan=acc,sg" /><ana lex="журнал" gr="S,m,inan=nom,sg" /></w> 
+<w>регистрации<ana lex="регистрация" gr="S,f,inan=abl,sg" /><ana lex="регистрация" gr="S,f,inan=acc,pl" /><ana lex="регистрация" gr="S,f,inan=dat,sg" /><ana lex="регистрация" gr="S,f,inan=gen,sg" /><ana lex="регистрация" gr="S,f,inan=nom,pl" /></w> 
+<w>участников<ana lex="участник" gr="S,m,anim=acc,pl" /><ana lex="участник" gr="S,m,anim=gen,pl" /></w>); 12:34 . . 
+</se>
+<se>
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w> 
+<w>создал<ana lex="создавать" gr="V,tran=praet,sg,indic,m,pf" /></w> 
+<w>учётную<ana lex="учетный" gr="A=acc,sg,plen,f" /></w> 
+<w>запись<ana lex="запись" gr="S,f,inan=acc,sg" /><ana lex="запись" gr="S,f,inan=nom,sg" /></w> Volf1orida (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>) ‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Н<ana lex="н" gr="S,abbr=abl,pl" /><ana lex="н" gr="S,abbr=abl,sg" /><ana lex="н" gr="S,abbr=acc,pl" /><ana lex="н" gr="S,abbr=acc,sg" /><ana lex="н" gr="S,abbr=dat,pl" /><ana lex="н" gr="S,abbr=dat,sg" /><ana lex="н" gr="S,abbr=gen,pl" /><ana lex="н" gr="S,abbr=gen,sg" /><ana lex="н" gr="S,abbr=ins,pl" /><ana lex="н" gr="S,abbr=ins,sg" /><ana lex="н" gr="S,abbr=nom,pl" /><ana lex="н" gr="S,abbr=nom,sg" /></w> 
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w>:94.181.69.156‎; 12:34 . . (+129)‎ . . ‎94.181.69.156 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (← 
+<w>Новая<ana lex="новый" gr="A=nom,sg,plen,f" /></w> 
+<w>страница<ana lex="страница" gr="S,f,inan=nom,sg" /></w>: «'''
+<w>Всё<ana lex="все" gr="ADV=" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> 
+<w>страницах<ana lex="страница" gr="S,f,inan=abl,pl" /></w> 
+<w>обсуждения<ana lex="обсуждение" gr="S,n,inan=acc,pl" /><ana lex="обсуждение" gr="S,n,inan=gen,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,pl" /></w> 
+<w>статей<ana lex="статья" gr="S,f,inan=gen,pl" /></w>!'''») (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Пежма<ana lex="пежма" gr="S,f,inan=nom,sg" /></w> (
+<w>приток<ana lex="приток" gr="S,m,inan=acc,sg" /><ana lex="приток" gr="S,m,inan=nom,sg" /></w> 
+<w>Ваги<ana lex="вага" gr="S,f,inan=acc,pl" /><ana lex="вага" gr="S,f,inan=gen,sg" /><ana lex="вага" gr="S,f,inan=nom,pl" /></w>)‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:34 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Список<ana lex="список" gr="S,m,inan=acc,sg" /><ana lex="список" gr="S,m,inan=nom,sg" /></w> 50 
+<w>лучших<ana lex="хороший" gr="A=abl,pl,plen,supr" /><ana lex="хороший" gr="A=acc,pl,plen,supr,anim" /><ana lex="хороший" gr="A=gen,pl,plen,supr" /></w> 
+<w>снайперов<ana lex="снайпер" gr="S,m,anim=acc,pl" /><ana lex="снайпер" gr="S,m,anim=gen,pl" /></w> 
+<w>в<ana lex="в" gr="PR=" /></w> 
+<w>истории<ana lex="история" gr="S,f,inan=abl,sg" /><ana lex="история" gr="S,f,inan=acc,pl" /><ana lex="история" gr="S,f,inan=dat,sg" /><ana lex="история" gr="S,f,inan=gen,sg" /><ana lex="история" gr="S,f,inan=nom,pl" /></w> 
+<w>НБА<ana lex="нба" gr="S,abbr=abl,pl" /><ana lex="нба" gr="S,abbr=abl,sg" /><ana lex="нба" gr="S,abbr=acc,pl" /><ana lex="нба" gr="S,abbr=acc,sg" /><ana lex="нба" gr="S,abbr=dat,pl" /><ana lex="нба" gr="S,abbr=dat,sg" /><ana lex="нба" gr="S,abbr=gen,pl" /><ana lex="нба" gr="S,abbr=gen,sg" /><ana lex="нба" gr="S,abbr=ins,pl" /><ana lex="нба" gr="S,abbr=ins,sg" /><ana lex="нба" gr="S,abbr=nom,pl" /><ana lex="нба" gr="S,abbr=nom,sg" /></w>‎; 12:34 . . (-5)‎ . . ‎
+</se>
+<se>
+<w>Акутагава<ana lex="акутагава" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Список<ana lex="список" gr="S,m,inan=acc,sg" /><ana lex="список" gr="S,m,inan=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Станиславский<ana lex="станиславский" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Константин<ana lex="константин" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Сергеевич<ana lex="сергеевич" gr="S,patrn,m,anim=nom,sg" /></w>‎; 12:34 . . (+2)‎ . . ‎
+</se>
+<se>
+<w>Giulini</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>откат<ana lex="откат" gr="S,m,inan=acc,sg" /><ana lex="откат" gr="S,m,inan=nom,sg" /></w> 
+<w>правок<ana lex="правка" gr="S,f,inan=gen,pl" /></w> 82.1.7.178 (
+<w>обс<ana lex="обс" qual="bastard" gr="S,m,inan=abl,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=abl,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=dat,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=gen,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=ins,sg" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,pl" /><ana lex="обс" qual="bastard" gr="S,m,inan=nom,sg" /></w>) 
+<w>к<ana lex="к" gr="PR=" /></w> 
+<w>версии<ana lex="версия" gr="S,f,inan=abl,sg" /><ana lex="версия" gr="S,f,inan=acc,pl" /><ana lex="версия" gr="S,f,inan=dat,sg" /><ana lex="версия" gr="S,f,inan=gen,sg" /><ana lex="версия" gr="S,f,inan=nom,pl" /></w> 
+<w>Семён<ana lex="семен" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Семёныч<ana lex="семеныч" gr="S,inform,patrn,m,anim=nom,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+<w>м<ana lex="м" gr="S,abbr=abl,pl" /><ana lex="м" gr="S,abbr=abl,sg" /><ana lex="м" gr="S,abbr=acc,pl" /><ana lex="м" gr="S,abbr=acc,sg" /><ana lex="м" gr="S,abbr=dat,pl" /><ana lex="м" gr="S,abbr=dat,sg" /><ana lex="м" gr="S,abbr=gen,pl" /><ana lex="м" gr="S,abbr=gen,sg" /><ana lex="м" gr="S,abbr=ins,pl" /><ana lex="м" gr="S,abbr=ins,sg" /><ana lex="м" gr="S,abbr=nom,pl" /><ana lex="м" gr="S,abbr=nom,sg" /></w> 
+<w>Портрет<ana lex="портрет" gr="S,m,inan=acc,sg" /><ana lex="портрет" gr="S,m,inan=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:34 . . (+17)‎ . . ‎
+</se>
+<se>
+<w>Alonso</w> 
+<w>de</w> 
+<w>Mendoza</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>Поджанры<ana lex="поджанр" qual="bastard" gr="S,m,inan=acc,pl" /><ana lex="поджанр" qual="bastard" gr="S,m,inan=nom,pl" /></w> 
+<w>портрета<ana lex="портрет" gr="S,m,inan=gen,sg" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Н<ana lex="н" gr="S,abbr=abl,pl" /><ana lex="н" gr="S,abbr=abl,sg" /><ana lex="н" gr="S,abbr=acc,pl" /><ana lex="н" gr="S,abbr=acc,sg" /><ana lex="н" gr="S,abbr=dat,pl" /><ana lex="н" gr="S,abbr=dat,sg" /><ana lex="н" gr="S,abbr=gen,pl" /><ana lex="н" gr="S,abbr=gen,sg" /><ana lex="н" gr="S,abbr=ins,pl" /><ana lex="н" gr="S,abbr=ins,sg" /><ana lex="н" gr="S,abbr=nom,pl" /><ana lex="н" gr="S,abbr=nom,sg" /></w> 
+<w>Сипатова<ana lex="сипатов" qual="bastard" gr="S,famn,m,anim=acc,sg" /><ana lex="сипатов" qual="bastard" gr="S,famn,m,anim=gen,sg" /></w>, 
+<w>Вера<ana lex="вера" gr="S,persn,f,anim=nom,sg" /></w> 
+<w>Васильевна<ana lex="васильевна" gr="S,patrn,f,anim=nom,sg" /></w>‎; 12:34 . . (+1298)‎ . . ‎
+</se>
+<se>
+<w>Nicolas</w>-
+<w>a</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (← 
+<w>Новая<ana lex="новый" gr="A=nom,sg,plen,f" /></w> 
+<w>страница<ana lex="страница" gr="S,f,inan=nom,sg" /></w>: «'''
+<w>Вера<ana lex="вера" gr="S,persn,f,anim=nom,sg" /></w> 
+<w>Васильевна<ana lex="васильевна" gr="S,patrn,f,anim=nom,sg" /></w> 
+<w>Сипатова<ana lex="сипатов" qual="bastard" gr="S,famn,m,anim=acc,sg" /><ana lex="сипатов" qual="bastard" gr="S,famn,m,anim=gen,sg" /></w>''' (02.12.1933 — 02.10.1998) — 
+<w>шлифовщица<ana lex="шлифовщица" gr="S,f,anim=nom,sg" /></w> 
+<w>завода<ana lex="завод" gr="S,m,inan=gen,sg" /></w> «
+<w>ГАЗ<ana lex="газ" gr="S,m,inan=acc,sg" /><ana lex="газ" gr="S,m,inan=nom,sg" /></w>», 
+<w>Герой<ana lex="герой" gr="S,m,anim=nom,sg" /></w>…») (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Клевень<ana lex="клевень" gr="S,geo,sg,f,inan=acc" /><ana lex="клевень" gr="S,geo,sg,f,inan=nom" /></w> (
+<w>река<ana lex="река" gr="S,f,inan=nom,sg" /></w>)‎; 12:34 . . (0)‎ . . ‎
+</se>
+<se>
+<w>Владимир<ana lex="владимир" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Грызлов<ana lex="грызлов" gr="S,famn,m,anim=nom,sg" /></w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Полиалфавитный<ana lex="полиалфавитный" qual="bastard" gr="A,plen=acc,sg,m,inan" /><ana lex="полиалфавитный" qual="bastard" gr="A,plen=nom,sg,m" /></w> 
+<w>шифр<ana lex="шифр" gr="S,m,inan=acc,sg" /><ana lex="шифр" gr="S,m,inan=nom,sg" /></w>‎ [
+<w>непров<ana lex="непров" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>.]; 12:34 . . (-1)‎ . . ‎85.93.59.244 (
+</se>
+<se>
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w>)‎ (→‎
+<w>Метод<ana lex="метод" gr="S,m,inan=acc,sg" /><ana lex="метод" gr="S,m,inan=nom,sg" /></w> 
+<w>Касиски<ana lex="касиска" qual="bastard" gr="S,f,inan=acc,pl" /><ana lex="касиска" qual="bastard" gr="S,f,inan=gen,sg" /><ana lex="касиска" qual="bastard" gr="S,f,inan=nom,pl" /></w>) (
+<w>разн<ana lex="разн" qual="bastard" gr="S,m,inan=acc,sg" /><ana lex="разн" qual="bastard" gr="S,m,inan=nom,sg" /></w>. | 
+<w>история<ana lex="история" gr="S,f,inan=nom,sg" /></w>) . . 
+</se>
+<se>
+<w>Восьмидесятые<ana lex="восьмидесятый" gr="ANUM=nom,pl" /><ana lex="восьмидесятый" gr="ANUM=acc,pl,inan" /></w>‎; 12:34 . . (+56)‎ . . ‎
+</se>
+<se>
+<w>Alexander</w> 
+<w>nt</w> (
+<w>обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> | 
+<w>вклад<ana lex="вклад" gr="S,m,inan=acc,sg" /><ana lex="вклад" gr="S,m,inan=nom,sg" /></w>)‎ (→‎
+<w>В<ana lex="в" gr="PR=" /></w> 
+<w>главных<ana lex="главный" gr="A=abl,pl,plen" /><ana lex="главный" gr="A=acc,pl,plen,anim" /><ana lex="главный" gr="A=gen,pl,plen" /></w> 
+<w>ролях<ana lex="роль" gr="S,f,inan=abl,pl" /></w>) 
+<w>Источник<ana lex="источник" gr="S,m,inan=acc,sg" /><ana lex="источник" gr="S,m,inan=nom,sg" /></w> — «
+<w>https</w>://
+<w>ru</w>.
+<w>wikipedia</w>.
+<w>org</w>/
+<w>wiki</w>/
+<w>Служебная<ana lex="служебный" gr="A=nom,sg,plen,f" /></w>:
+<w>Свежие<ana lex="свежий" gr="A=acc,pl,plen,inan" /><ana lex="свежий" gr="A=nom,pl,plen" /></w>_
+<w>правки<ana lex="правка" gr="S,f,inan=acc,pl" /><ana lex="правка" gr="S,f,inan=gen,sg" /><ana lex="правка" gr="S,f,inan=nom,pl" /></w>» 
+<w>Навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w> 
+<w>Персональные<ana lex="персональный" gr="A=acc,pl,plen,inan" /><ana lex="персональный" gr="A=nom,pl,plen" /></w> 
+<w>инструменты<ana lex="инструмент" gr="S,m,inan=acc,pl" /><ana lex="инструмент" gr="S,m,inan=nom,pl" /></w> 
+<w>Пространства<ana lex="пространство" gr="S,n,inan=acc,pl" /><ana lex="пространство" gr="S,n,inan=gen,sg" /><ana lex="пространство" gr="S,n,inan=nom,pl" /></w> 
+<w>имён<ana lex="имя" gr="S,n,inan=gen,pl" /></w> 
+<w>Варианты<ana lex="вариант" gr="S,m,inan=acc,pl" /><ana lex="вариант" gr="S,m,inan=nom,pl" /></w> 
+<w>Просмотры<ana lex="просмотр" gr="S,m,inan=acc,pl" /><ana lex="просмотр" gr="S,m,inan=nom,pl" /></w> 
+<w>Ещё<ana lex="еще" gr="ADV=" /></w> 
+<w>Поиск<ana lex="поиск" gr="S,m,inan=acc,sg" /><ana lex="поиск" gr="S,m,inan=nom,sg" /></w> 
+<w>Навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w> 
+<w>Участие<ana lex="участие" gr="S,n,inan=acc,sg" /><ana lex="участие" gr="S,n,inan=nom,sg" /></w> 
+<w>Инструменты<ana lex="инструмент" gr="S,m,inan=acc,pl" /><ana lex="инструмент" gr="S,m,inan=nom,pl" /></w> 
+<w>На<ana lex="на" gr="PR=" /></w> 
+<w>других<ana lex="другой" gr="APRO=abl,pl" /><ana lex="другой" gr="APRO=gen,pl" /><ana lex="другой" gr="APRO=acc,pl,anim" /></w> 
+<w>языках<ana lex="язык" gr="S,m,inan=abl,pl" /></w> 
+<w>Политика<ana lex="политика" gr="S,f,inan=nom,sg" /></w> 
+<w>конфиденциальности<ana lex="конфиденциальность" gr="S,f,inan=abl,sg" /><ana lex="конфиденциальность" gr="S,f,inan=acc,pl" /><ana lex="конфиденциальность" gr="S,f,inan=dat,sg" /><ana lex="конфиденциальность" gr="S,f,inan=gen,sg" /><ana lex="конфиденциальность" gr="S,f,inan=nom,pl" /></w> 
+<w>Описание<ana lex="описание" gr="S,n,inan=acc,sg" /><ana lex="описание" gr="S,n,inan=nom,sg" /></w> 
+<w>Википедии<ana lex="википедия" gr="S,f,inan=abl,sg" /><ana lex="википедия" gr="S,f,inan=acc,pl" /><ana lex="википедия" gr="S,f,inan=dat,sg" /><ana lex="википедия" gr="S,f,inan=gen,sg" /><ana lex="википедия" gr="S,f,inan=nom,pl" /></w> 
+<w>Отказ<ana lex="отказ" gr="S,m,inan=acc,sg" /><ana lex="отказ" gr="S,m,inan=nom,sg" /></w> 
+<w>от<ana lex="от" gr="PR=" /></w> 
+<w>ответственности<ana lex="ответственность" gr="S,f,inan=abl,sg" /><ana lex="ответственность" gr="S,f,inan=acc,pl" /><ana lex="ответственность" gr="S,f,inan=dat,sg" /><ana lex="ответственность" gr="S,f,inan=gen,sg" /><ana lex="ответственность" gr="S,f,inan=nom,pl" /></w> 
+<w>Разработчики<ana lex="разработчик" gr="S,m,anim=nom,pl" /></w> 
+<w>Мобильная<ana lex="мобильный" gr="A=nom,sg,plen,f" /></w> 
+<w>версия<ana lex="версия" gr="S,f,inan=nom,sg" /></w> 
+
+</se>
+</body></html>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><body>
+
+<se> 
+<w>Страницы<ana lex="страница" gr="S,f,inan=acc,pl" /><ana lex="страница" gr="S,f,inan=gen,sg" /><ana lex="страница" gr="S,f,inan=nom,pl" /></w>, 
+<w>ссылающиеся<ana lex="ссылаться" gr="V,intr=inpraes,nom,pl,partcp,plen,ipf,act" /><ana lex="ссылаться" gr="V,intr=inpraes,acc,pl,partcp,plen,ipf,act,inan" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> «
+<w>Японский<ana lex="японский" gr="A=acc,sg,plen,m,inan" /><ana lex="японский" gr="A=nom,sg,plen,m" /></w> 
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w>» — 
+<w>Википедия<ana lex="википедия" gr="S,f,inan=nom,sg" /></w> 
+<w>Помощь<ana lex="помощь" gr="S,f,inan=acc,sg" /><ana lex="помощь" gr="S,f,inan=nom,sg" /></w> 
+<w>Страницы<ana lex="страница" gr="S,f,inan=acc,pl" /><ana lex="страница" gr="S,f,inan=gen,sg" /><ana lex="страница" gr="S,f,inan=nom,pl" /></w>, 
+<w>ссылающиеся<ana lex="ссылаться" gr="V,intr=inpraes,nom,pl,partcp,plen,ipf,act" /><ana lex="ссылаться" gr="V,intr=inpraes,acc,pl,partcp,plen,ipf,act,inan" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> «
+<w>Японский<ana lex="японский" gr="A=acc,sg,plen,m,inan" /><ana lex="японский" gr="A=nom,sg,plen,m" /></w> 
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w>» ← 
+<w>Японский<ana lex="японский" gr="A=acc,sg,plen,m,inan" /><ana lex="японский" gr="A=nom,sg,plen,m" /></w> 
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w> 
+<w>Перейти<ana lex="переходить" gr="V,tran=inf,pf" /></w> 
+<w>к<ana lex="к" gr="PR=" /></w>: 
+<w>навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w>, 
+<w>поиск<ana lex="поиск" gr="S,m,inan=acc,sg" /><ana lex="поиск" gr="S,m,inan=nom,sg" /></w> 
+<w>Ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> 
+<w>сюда<ana lex="сюда" gr="ADVPRO=" /></w> 
+<w>Страница<ana lex="страница" gr="S,f,inan=nom,sg" /></w>:  
+<w>Пространство<ana lex="пространство" gr="S,n,inan=acc,sg" /><ana lex="пространство" gr="S,n,inan=nom,sg" /></w> 
+<w>имён<ana lex="имя" gr="S,n,inan=gen,pl" /></w>:  
+<w>все<ana lex="весь" gr="APRO=nom,pl" /><ana lex="весь" gr="APRO=acc,sg,n" /><ana lex="весь" gr="APRO=nom,sg,n" /><ana lex="весь" gr="APRO=acc,pl,inan" /></w> (
+<w>основное<ana lex="основной" gr="A=acc,sg,plen,n" /><ana lex="основной" gr="A=nom,sg,plen,n" /></w>) 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>участника<ana lex="участник" gr="S,m,anim=acc,sg" /><ana lex="участник" gr="S,m,anim=gen,sg" /></w> 
+<w>Википедия<ana lex="википедия" gr="S,f,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>Википедии<ana lex="википедия" gr="S,f,inan=abl,sg" /><ana lex="википедия" gr="S,f,inan=acc,pl" /><ana lex="википедия" gr="S,f,inan=dat,sg" /><ana lex="википедия" gr="S,f,inan=gen,sg" /><ana lex="википедия" gr="S,f,inan=nom,pl" /></w> 
+<w>Файл<ana lex="файл" gr="S,m,inan=acc,sg" /><ana lex="файл" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>файла<ana lex="файл" gr="S,m,inan=gen,sg" /></w> 
+<w>MediaWiki</w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>MediaWiki</w> 
+<w>Шаблон<ana lex="шаблон" gr="S,m,inan=acc,sg" /><ana lex="шаблон" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>шаблона<ana lex="шаблон" gr="S,m,inan=gen,sg" /></w> 
+<w>Справка<ana lex="справка" gr="S,f,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>справки<ana lex="справка" gr="S,f,inan=acc,pl" /><ana lex="справка" gr="S,f,inan=gen,sg" /><ana lex="справка" gr="S,f,inan=nom,pl" /></w> 
+<w>Категория<ana lex="категория" gr="S,f,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>категории<ana lex="категория" gr="S,f,inan=abl,sg" /><ana lex="категория" gr="S,f,inan=acc,pl" /><ana lex="категория" gr="S,f,inan=dat,sg" /><ana lex="категория" gr="S,f,inan=gen,sg" /><ana lex="категория" gr="S,f,inan=nom,pl" /></w> 
+<w>Портал<ana lex="портал" gr="S,m,inan=acc,sg" /><ana lex="портал" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>портала<ana lex="портал" gr="S,m,inan=gen,sg" /></w> 
+<w>Инкубатор<ana lex="инкубатор" gr="S,m,inan=acc,sg" /><ana lex="инкубатор" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>Инкубатора<ana lex="инкубатор" gr="S,m,inan=gen,sg" /></w> 
+<w>Проект<ana lex="проект" gr="S,m,inan=acc,sg" /><ana lex="проект" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>проекта<ana lex="проект" gr="S,m,inan=gen,sg" /></w> 
+<w>Арбитраж<ana lex="арбитраж" gr="S,m,inan=acc,sg" /><ana lex="арбитраж" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>арбитража<ana lex="арбитраж" gr="S,m,inan=gen,sg" /></w> 
+<w>Образовательная<ana lex="образовательный" gr="A=nom,sg,plen,f" /></w> 
+<w>программа<ana lex="программа" gr="S,f,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>образовательной<ana lex="образовательный" gr="A=abl,sg,plen,f" /><ana lex="образовательный" gr="A=dat,sg,plen,f" /><ana lex="образовательный" gr="A=gen,sg,plen,f" /><ana lex="образовательный" gr="A=ins,sg,plen,f" /></w> 
+<w>программы<ana lex="программа" gr="S,f,inan=acc,pl" /><ana lex="программа" gr="S,f,inan=gen,sg" /><ana lex="программа" gr="S,f,inan=nom,pl" /></w> 
+<w>Модуль<ana lex="модуль" gr="S,m,inan=acc,sg" /><ana lex="модуль" gr="S,m,inan=nom,sg" /></w> 
+<w>Обсуждение<ana lex="обсуждение" gr="S,n,inan=acc,sg" /><ana lex="обсуждение" gr="S,n,inan=nom,sg" /></w> 
+<w>модуля<ana lex="модуль" gr="S,m,inan=gen,sg" /></w> 
+<w>Gadget</w> 
+<w>Gadget</w> 
+<w>talk</w> 
+<w>Gadget</w> 
+<w>definition</w> 
+<w>Gadget</w> 
+<w>definition</w> 
+<w>talk</w> 
+<w>Тема<ana lex="тема" gr="S,f,inan=nom,sg" /></w>   
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>выбранное<ana lex="выбирать" gr="V=praet,acc,sg,partcp,plen,n,pf,pass" /><ana lex="выбирать" gr="V=praet,nom,sg,partcp,plen,n,pf,pass" /></w> 
+<w>Фильтры<ana lex="фильтр" gr="S,m,inan=acc,pl" /><ana lex="фильтр" gr="S,m,inan=nom,pl" /></w> 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>включения<ana lex="включение" gr="S,n,inan=acc,pl" /><ana lex="включение" gr="S,n,inan=gen,sg" /><ana lex="включение" gr="S,n,inan=nom,pl" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>Скрыть<ana lex="скрывать" gr="V=inf,pf" /></w> 
+<w>перенаправления<ana lex="перенаправление" gr="S,n,inan=acc,pl" /><ana lex="перенаправление" gr="S,n,inan=gen,sg" /><ana lex="перенаправление" gr="S,n,inan=nom,pl" /></w> 
+<w>Следующие<ana lex="следующий" gr="A=acc,pl,plen,inan" /><ana lex="следующий" gr="A=nom,pl,plen" /></w> 
+<w>страницы<ana lex="страница" gr="S,f,inan=acc,pl" /><ana lex="страница" gr="S,f,inan=gen,sg" /><ana lex="страница" gr="S,f,inan=nom,pl" /></w> 
+<w>ссылаются<ana lex="ссылаться" gr="V,intr=inpraes,pl,indic,3p,ipf" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> 
+<w>Японский<ana lex="японский" gr="A=acc,sg,plen,m,inan" /><ana lex="японский" gr="A=nom,sg,plen,m" /></w> 
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w> 
+<w>Помните<ana lex="помнить" gr="V,ipf,tran=inpraes,pl,indic,2p" /><ana lex="помнить" gr="V,ipf,tran=pl,imper,2p" /></w>, 
+<w>что<ana lex="что" gr="CONJ=" /></w> 
+<w>при<ana lex="при" gr="PR=" /></w> 
+<w>учёте<ana lex="учет" gr="S,m,inan=abl,sg" /></w> 
+<w>статей<ana lex="статья" gr="S,f,inan=gen,pl" /></w>-
+<w>сирот<ana lex="сирота" gr="S,mf,anim=acc,pl" /><ana lex="сирота" gr="S,mf,anim=gen,pl" /></w> 
+<w>учитываются<ana lex="учитываться" gr="V,ipf,intr=inpraes,pl,indic,3p" /></w> 
+<w>не<ana lex="не" gr="PART=" /></w> 
+<w>все<ana lex="весь" gr="APRO=nom,pl" /><ana lex="весь" gr="APRO=acc,sg,n" /><ana lex="весь" gr="APRO=nom,sg,n" /><ana lex="весь" gr="APRO=acc,pl,inan" /></w> 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w>, 
+<w>ведущие<ana lex="вести" gr="V,ipf,tran=inpraes,nom,pl,partcp,plen,act" /><ana lex="вести" gr="V,ipf,tran=inpraes,acc,pl,partcp,plen,act,inan" /></w> 
+<w>на<ana lex="на" gr="PR=" /></w> 
+<w>статью<ana lex="статья" gr="S,f,inan=acc,sg" /></w>. 
+</se>
+<se>
+<w>Инструменты<ana lex="инструмент" gr="S,m,inan=acc,pl" /><ana lex="инструмент" gr="S,m,inan=nom,pl" /></w>: 
+<w>Показать<ana lex="показывать" gr="V=inf,pf" /></w> 
+<w>только<ana lex="только" gr="PART=" /></w> 
+<w>перенаправления<ana lex="перенаправление" gr="S,n,inan=acc,pl" /><ana lex="перенаправление" gr="S,n,inan=gen,sg" /><ana lex="перенаправление" gr="S,n,inan=nom,pl" /></w> 
+<w>Просмотреть<ana lex="просматривать" gr="V,tran=inf,pf" /></w> (
+<w>предыдущие<ana lex="предыдущий" gr="A=acc,pl,plen,inan" /><ana lex="предыдущий" gr="A=nom,pl,plen" /></w> 50 | 
+<w>следующие<ana lex="следующий" gr="A=acc,pl,plen,inan" /><ana lex="следующий" gr="A=nom,pl,plen" /></w> 50) (20 | 50 | 100 | 250 | 500)
+<w>Владивосток<ana lex="владивосток" gr="S,geo,m,inan=acc,sg" /><ana lex="владивосток" gr="S,geo,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Гамбург<ana lex="гамбург" gr="S,geo,m,inan=acc,sg" /><ana lex="гамбург" gr="S,geo,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Русский<ana lex="русский" gr="A=acc,sg,plen,m,inan" /><ana lex="русский" gr="A=nom,sg,plen,m" /></w> 
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Август<ana lex="август" gr="S,m,inan=acc,sg" /><ana lex="август" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Хонеккер<ana lex="хонеккер" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Эрих<ana lex="эрих" gr="S,persn,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Январь<ana lex="январь" gr="S,m,inan=acc,sg" /><ana lex="январь" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Солнце<ana lex="солнце" gr="S,n,inan=abl,sg" /><ana lex="солнце" gr="S,n,inan=acc,sg" /><ana lex="солнце" gr="S,n,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Международная<ana lex="международный" gr="A=nom,sg,plen,f" /></w> 
+<w>система<ana lex="система" gr="S,f,inan=nom,sg" /></w> 
+<w>единиц<ana lex="единица" gr="S,f,inan=gen,pl" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 27 
+<w>февраля<ana lex="февраль" gr="S,m,inan=gen,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Желязны<ana lex="желязный" qual="bastard" gr="A=pl,brev" /></w>, 
+<w>Роджер<ana lex="роджер" gr="S,persn,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Латинский<ana lex="латинский" gr="A=acc,sg,plen,m,inan" /><ana lex="латинский" gr="A=nom,sg,plen,m" /></w> 
+<w>алфавит<ana lex="алфавит" gr="S,m,inan=acc,sg" /><ana lex="алфавит" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Февраль<ana lex="февраль" gr="S,m,inan=acc,sg" /><ana lex="февраль" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Март<ana lex="март" gr="S,m,inan=acc,sg" /><ana lex="март" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Апрель<ana lex="апрель" gr="S,m,inan=acc,sg" /><ana lex="апрель" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Май<ana lex="май" gr="S,sg,m,inan=acc" /><ana lex="май" gr="S,sg,m,inan=nom" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Июнь<ana lex="июнь" gr="S,m,inan=acc,sg" /><ana lex="июнь" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Июль<ana lex="июль" gr="S,m,inan=acc,sg" /><ana lex="июль" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 1971 
+<w>год<ana lex="год" gr="S,m,inan=acc,sg" /><ana lex="год" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 2001 
+<w>год<ana lex="год" gr="S,m,inan=acc,sg" /><ana lex="год" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Япония<ana lex="япония" gr="S,geo,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Эйзенштейн<ana lex="эйзенштейн" qual="bastard" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Сергей<ana lex="сергей" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Михайлович<ana lex="михайлович" gr="S,patrn,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>История<ana lex="история" gr="S,f,inan=nom,sg" /></w> 
+<w>Японии<ana lex="япония" gr="S,geo,f,inan=abl,sg" /><ana lex="япония" gr="S,geo,f,inan=acc,pl" /><ana lex="япония" gr="S,geo,f,inan=dat,sg" /><ana lex="япония" gr="S,geo,f,inan=gen,sg" /><ana lex="япония" gr="S,geo,f,inan=nom,pl" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Синтоизм<ana lex="синтоизм" gr="S,m,inan=acc,sg" /><ana lex="синтоизм" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Нью-Йорк<ana lex="нью-йорк" gr="S,geo,m,inan=acc,sg" /><ana lex="нью-йорк" gr="S,geo,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Камакура<ana lex="камакура" qual="bastard" gr="S,f,inan=nom,sg" /></w> (
+<w>город<ana lex="город" gr="S,m,inan=acc,sg" /><ana lex="город" gr="S,m,inan=nom,sg" /></w>) ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Письменность<ana lex="письменность" gr="S,f,inan=acc,sg" /><ana lex="письменность" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Логлан<ana lex="логлан" qual="bastard" gr="S,persn,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Дракон<ana lex="дракон" gr="S,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Уран<ana lex="уран" gr="S,m,inan=acc,sg" /><ana lex="уран" gr="S,m,inan=nom,sg" /></w> (
+<w>планета<ana lex="планета" gr="S,f,inan=nom,sg" /></w>) ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Японское<ana lex="японский" gr="A=acc,sg,plen,n" /><ana lex="японский" gr="A=nom,sg,plen,n" /></w> 
+<w>море<ana lex="море" gr="S,n,inan=abl,sg" /><ana lex="море" gr="S,n,inan=acc,sg" /><ana lex="море" gr="S,n,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 11 
+<w>июля<ana lex="июль" gr="S,m,inan=gen,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 1394 
+<w>год<ana lex="год" gr="S,m,inan=acc,sg" /><ana lex="год" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 5 
+<w>июля<ana lex="июль" gr="S,m,inan=gen,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 15 
+<w>сентября<ana lex="сентябрь" gr="S,m,inan=gen,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Пятница<ana lex="пятница" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Неделя<ana lex="неделя" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Среда<ana lex="среда" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Вторник<ana lex="вторник" gr="S,m,inan=acc,sg" /><ana lex="вторник" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Понедельник<ana lex="понедельник" gr="S,m,inan=acc,sg" /><ana lex="понедельник" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Суббота<ana lex="суббота" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Батурин<ana lex="батурин" gr="S,famn,m,anim=nom,sg" /></w>, 
+<w>Юрий<ana lex="юрий" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Михайлович<ana lex="михайлович" gr="S,patrn,m,anim=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Конго<ana lex="конго" gr="S,n,inan=abl,pl" /><ana lex="конго" gr="S,n,inan=abl,sg" /><ana lex="конго" gr="S,n,inan=acc,pl" /><ana lex="конго" gr="S,n,inan=acc,sg" /><ana lex="конго" gr="S,n,inan=dat,pl" /><ana lex="конго" gr="S,n,inan=dat,sg" /><ana lex="конго" gr="S,n,inan=gen,pl" /><ana lex="конго" gr="S,n,inan=gen,sg" /><ana lex="конго" gr="S,n,inan=ins,pl" /><ana lex="конго" gr="S,n,inan=ins,sg" /><ana lex="конго" gr="S,n,inan=nom,pl" /><ana lex="конго" gr="S,n,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Участник<ana lex="участник" gr="S,m,anim=nom,sg" /></w>:
+<w>Dana</w>~
+<w>ruwiki</w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Нефть<ana lex="нефть" gr="S,f,inan=acc,sg" /><ana lex="нефть" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Грамматическое<ana lex="грамматический" gr="A=acc,sg,plen,n" /><ana lex="грамматический" gr="A=nom,sg,plen,n" /></w> 
+<w>число<ana lex="число" gr="S,n,inan=acc,sg" /><ana lex="число" gr="S,n,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Аниме<ana lex="аниме" gr="S,n,inan=abl,pl" /><ana lex="аниме" gr="S,n,inan=abl,sg" /><ana lex="аниме" gr="S,n,inan=acc,pl" /><ana lex="аниме" gr="S,n,inan=acc,sg" /><ana lex="аниме" gr="S,n,inan=dat,pl" /><ana lex="аниме" gr="S,n,inan=dat,sg" /><ana lex="аниме" gr="S,n,inan=gen,pl" /><ana lex="аниме" gr="S,n,inan=gen,sg" /><ana lex="аниме" gr="S,n,inan=ins,pl" /><ana lex="аниме" gr="S,n,inan=ins,sg" /><ana lex="аниме" gr="S,n,inan=nom,pl" /><ana lex="аниме" gr="S,n,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Манга<ana lex="манга" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Кацусика<ana lex="кацусика" gr="S,persn,m,anim=abl,pl" /><ana lex="кацусика" gr="S,persn,m,anim=abl,sg" /><ana lex="кацусика" gr="S,persn,m,anim=acc,pl" /><ana lex="кацусика" gr="S,persn,m,anim=acc,sg" /><ana lex="кацусика" gr="S,persn,m,anim=dat,pl" /><ana lex="кацусика" gr="S,persn,m,anim=dat,sg" /><ana lex="кацусика" gr="S,persn,m,anim=gen,pl" /><ana lex="кацусика" gr="S,persn,m,anim=gen,sg" /><ana lex="кацусика" gr="S,persn,m,anim=ins,pl" /><ana lex="кацусика" gr="S,persn,m,anim=ins,sg" /><ana lex="кацусика" gr="S,persn,m,anim=nom,pl" /><ana lex="кацусика" gr="S,persn,m,anim=nom,sg" /></w> 
+<w>Хокусай<ana lex="хокусать" qual="bastard" gr="V,pf=sg,imper,2p,tran" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Падеж<ana lex="падеж" gr="S,m,inan=acc,sg" /><ana lex="падеж" gr="S,m,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Тысяча<ana lex="тысяча" gr="S,f,inan=nom,sg" /></w> ‎ (← 
+<w>ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w> | 
+<w>править<ana lex="править" gr="V,ipf,tran=inf" /></w>) 
+<w>Просмотреть<ana lex="просматривать" gr="V,tran=inf,pf" /></w> (
+<w>предыдущие<ana lex="предыдущий" gr="A=acc,pl,plen,inan" /><ana lex="предыдущий" gr="A=nom,pl,plen" /></w> 50 | 
+<w>следующие<ana lex="следующий" gr="A=acc,pl,plen,inan" /><ana lex="следующий" gr="A=nom,pl,plen" /></w> 50) (20 | 50 | 100 | 250 | 500) 
+<w>Источник<ana lex="источник" gr="S,m,inan=acc,sg" /><ana lex="источник" gr="S,m,inan=nom,sg" /></w> — «
+<w>https</w>://
+<w>ru</w>.
+<w>wikipedia</w>.
+<w>org</w>/
+<w>wiki</w>/
+<w>Служебная<ana lex="служебный" gr="A=nom,sg,plen,f" /></w>:
+<w>Ссылки<ana lex="ссылка" gr="S,f,inan=acc,pl" /><ana lex="ссылка" gr="S,f,inan=gen,sg" /><ana lex="ссылка" gr="S,f,inan=nom,pl" /></w>_
+<w>сюда<ana lex="сюда" gr="ADVPRO=" /></w>/
+<w>Японский<ana lex="японский" gr="A=acc,sg,plen,m,inan" /><ana lex="японский" gr="A=nom,sg,plen,m" /></w>_
+<w>язык<ana lex="язык" gr="S,m,inan=acc,sg" /><ana lex="язык" gr="S,m,inan=nom,sg" /></w>» 
+<w>Навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w> 
+<w>Персональные<ana lex="персональный" gr="A=acc,pl,plen,inan" /><ana lex="персональный" gr="A=nom,pl,plen" /></w> 
+<w>инструменты<ana lex="инструмент" gr="S,m,inan=acc,pl" /><ana lex="инструмент" gr="S,m,inan=nom,pl" /></w> 
+<w>Пространства<ana lex="пространство" gr="S,n,inan=acc,pl" /><ana lex="пространство" gr="S,n,inan=gen,sg" /><ana lex="пространство" gr="S,n,inan=nom,pl" /></w> 
+<w>имён<ana lex="имя" gr="S,n,inan=gen,pl" /></w> 
+<w>Варианты<ana lex="вариант" gr="S,m,inan=acc,pl" /><ana lex="вариант" gr="S,m,inan=nom,pl" /></w> 
+<w>Просмотры<ana lex="просмотр" gr="S,m,inan=acc,pl" /><ana lex="просмотр" gr="S,m,inan=nom,pl" /></w> 
+<w>Ещё<ana lex="еще" gr="ADV=" /></w> 
+<w>Поиск<ana lex="поиск" gr="S,m,inan=acc,sg" /><ana lex="поиск" gr="S,m,inan=nom,sg" /></w> 
+<w>Навигация<ana lex="навигация" gr="S,f,inan=nom,sg" /></w> 
+<w>Участие<ana lex="участие" gr="S,n,inan=acc,sg" /><ana lex="участие" gr="S,n,inan=nom,sg" /></w> 
+<w>Инструменты<ana lex="инструмент" gr="S,m,inan=acc,pl" /><ana lex="инструмент" gr="S,m,inan=nom,pl" /></w> 
+<w>На<ana lex="на" gr="PR=" /></w> 
+<w>других<ana lex="другой" gr="APRO=abl,pl" /><ana lex="другой" gr="APRO=gen,pl" /><ana lex="другой" gr="APRO=acc,pl,anim" /></w> 
+<w>языках<ana lex="язык" gr="S,m,inan=abl,pl" /></w> 
+<w>Политика<ana lex="политика" gr="S,f,inan=nom,sg" /></w> 
+<w>конфиденциальности<ana lex="конфиденциальность" gr="S,f,inan=abl,sg" /><ana lex="конфиденциальность" gr="S,f,inan=acc,pl" /><ana lex="конфиденциальность" gr="S,f,inan=dat,sg" /><ana lex="конфиденциальность" gr="S,f,inan=gen,sg" /><ana lex="конфиденциальность" gr="S,f,inan=nom,pl" /></w> 
+<w>Описание<ana lex="описание" gr="S,n,inan=acc,sg" /><ana lex="описание" gr="S,n,inan=nom,sg" /></w> 
+<w>Википедии<ana lex="википедия" gr="S,f,inan=abl,sg" /><ana lex="википедия" gr="S,f,inan=acc,pl" /><ana lex="википедия" gr="S,f,inan=dat,sg" /><ana lex="википедия" gr="S,f,inan=gen,sg" /><ana lex="википедия" gr="S,f,inan=nom,pl" /></w> 
+<w>Отказ<ana lex="отказ" gr="S,m,inan=acc,sg" /><ana lex="отказ" gr="S,m,inan=nom,sg" /></w> 
+<w>от<ana lex="от" gr="PR=" /></w> 
+<w>ответственности<ana lex="ответственность" gr="S,f,inan=abl,sg" /><ana lex="ответственность" gr="S,f,inan=acc,pl" /><ana lex="ответственность" gr="S,f,inan=dat,sg" /><ana lex="ответственность" gr="S,f,inan=gen,sg" /><ana lex="ответственность" gr="S,f,inan=nom,pl" /></w> 
+<w>Разработчики<ana lex="разработчик" gr="S,m,anim=nom,pl" /></w> 
+<w>Мобильная<ana lex="мобильный" gr="A=nom,sg,plen,f" /></w> 
+<w>версия<ana lex="версия" gr="S,f,inan=nom,sg" /></w> 
+
+</se>
+</body></html>
