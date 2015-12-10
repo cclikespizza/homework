@@ -22,3 +22,9 @@ this is programming homework
 13.11.2015 - 4th year, seminar 8, numpy
 
 19.11.2015 - 4th year, numpy homework
+
+27.11.2015 - 4th year, principal component analysis
+
+04.12.2015 - 4th year, tf-idf
+
+11.12.2015 - 4th year, svm learning
