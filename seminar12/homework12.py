@@ -77,6 +77,16 @@ def main():
                 example_true.append(politics[i])
         if len(example_false) >= 3 and len(example_true) >= 3:
             break
+    for i in range(len(culture)):
+        guess = best.predict(f[i+len(politics)].reshape(1, -1))
+        if guess != 0:
+            if len(example_false) < 3:
+                example_false.append(culture[i])
+        else:
+            if len(example_true) < 3:
+                example_true.append(culture[i])
+        if len(example_false) >= 3 and len(example_true) >= 3:
+            break
 
     print('Примеры, где машина ошибается: ')
     for i in example_false:
