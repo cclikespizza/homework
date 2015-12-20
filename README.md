@@ -28,3 +28,5 @@ this is programming homework
 04.12.2015 - 4th year, tf-idf
 
 11.12.2015 - 4th year, svm learning
+
+18.12.2015 - 4th year, tfidftransformer, svc + multinomialnb
