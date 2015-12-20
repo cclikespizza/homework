@@ -34,6 +34,8 @@ def count_tfidf(texts):
 
 def main():
     print('Читаю тексты...')
+    # pymystem3 вообще какой-то долгий =(
+    # поэтому я тестила на politics2.txt & culture2.txt
     politics = open_news('politics.txt')
     culture = open_news('culture.txt')
 
